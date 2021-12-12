@@ -17,7 +17,7 @@
 - removed item_shield_sm_instant
 
 ### structural
-- removed stairs at dets
-- added pathway from lower mid in base to dets
+- removed the stairs leading to dets
+- added pathway (from lower mid in base) to dets
 - added jump pad near dets leading to rockets in upper area
 - fixed ledges with physics_clip brush
