@@ -19,5 +19,5 @@
 ### structural
 - removed stairs at dets
 - added pathway from lower mid in base to dets
-- added jumppad near dets leading to rockets in upper area
+- added jump pad near dets leading to rockets in upper area
 - fixed ledges with physics_clip brush
