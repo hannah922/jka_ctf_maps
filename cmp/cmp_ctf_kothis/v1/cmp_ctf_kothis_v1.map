@@ -5,6 +5,9 @@
 "music" "music/mp/mp_action1.mp3"
 "message" "Kothis Depot"
 "_lightmapscale" "2"
+"ambient" "120"
+"_mingridlight" "100"
+"_color" "1 1 1"
 // brush 0
 {
 ( 1405 -8 680 ) ( 1405 -8 664 ) ( 1405 8 664 ) system/caulk 0 0 0 0.25 0.25 0 0 0

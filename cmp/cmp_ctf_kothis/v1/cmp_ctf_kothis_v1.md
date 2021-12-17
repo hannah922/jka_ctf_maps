@@ -3,6 +3,10 @@
 ## Changes
 
 ### 12/13/2021:
+#### structural
+- added light tags to worldspawn per Seaal's suggestion
+
+### 12/13/2021:
 #### weapons
 - moved concussion rifle closer to the jump pad behind it
 
