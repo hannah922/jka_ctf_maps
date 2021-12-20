@@ -7,6 +7,9 @@
 #### spawn
 - spawn at the lower level is now correctly parallel to the wall
 
+#### items
+- medpack moved to dets, dets removed from map and power cell is now located where med pack used to be
+
 ### 12/18/2021:
 
 #### general
