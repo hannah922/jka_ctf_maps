@@ -2,6 +2,11 @@
 
 ## Changes
 
+### 12/20/2021
+
+#### spawn
+- spawn at the lower level is now correctly parallel to the wall
+
 ### 12/18/2021:
 
 #### general
@@ -9,7 +14,7 @@
 - fixed blue textures showing up in red base
 
 #### spawn
-- Spawn at the lower level (by the metallic bolts) is not parallel to the wall
+- spawn at the lower level (by the metallic bolts) is not parallel to the wall
 
 ### 12/17/2021:
 
