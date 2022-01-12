@@ -1,0 +1,28 @@
+TODO 
+
+# ctf_kharzet_v1
+
+Weapons:
+    ✔ Move trip mines to the area behind the flagstand @done(22-01-12 11:05)
+    ☐ Remove stun baton
+    ☐ Remove conussive rifle?
+    ☐ Either remove trip mines or dets?
+
+Spawns:
+    ✔ Move info_player_start to the cut off upper ledge (since the ledge has now been cut off) @done(22-01-12 11:10)
+
+Entities:
+    ☐ Move shields?
+
+Structural:
+    ✔ Make map more detail oriented @done(22-01-12 11:04)
+    ✔ Connect the two pits below sniper @done(22-01-12 11:04)
+    ✔ Add jump pad between the two connected pits @done(22-01-12 11:05)
+    ✔ Remove the jump pad behind the flagstand @done(22-01-12 11:05)
+    ✔ Cover the upper route leading to trip mines (since jump pad is removed) @done(22-01-12 11:06)
+    ✔ Remove the upper level trip mine route starting from the previous jump pad location @done(22-01-12 11:08)
+    ✔ Add pit to the  right side of base ( from flagstand area to the repeater/tiny room with rocket ammo) @done(22-01-12 11:09)
+    ☐ Remove the jump pad near the rockets
+    ☐ Add jump to right after the mid base tunnel (with repeater ammo)
+    ☐ extend base?
+    ☐ Raise or lower flagstand platform?
