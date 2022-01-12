@@ -1,0 +1,503 @@
+{
+"message" "Kejim Streets"
+"_lightmapscale" "2"
+"classname" "worldspawn"
+"angle" "90"
+"music" "music/mp/mp_action1.mp3"
+"pitheight" "1284"
+}
+{
+"model" "*1"
+"classname" "trigger_push"
+"target" "t1"
+}
+{
+"classname" "target_position"
+"origin" "1312 2080 1928"
+"targetname" "t1"
+}
+{
+"classname" "target_position"
+"origin" "160 192 1988"
+"targetname" "t3"
+}
+{
+"origin" "2464 3968 1988"
+"classname" "target_position"
+"targetname" "t2"
+}
+{
+"model" "*2"
+"classname" "trigger_push"
+"target" "t2"
+}
+{
+"model" "*3"
+"classname" "trigger_push"
+"target" "t3"
+}
+{
+"classname" "target_speaker"
+"origin" "150 -1376 2304"
+"spawnflags" "1"
+"noise" "sound/ambience/narshaddaa/ns_streetint.wav"
+}
+{
+"classname" "info_null"
+"origin" "158 -1376 2416"
+"targetname" "t76"
+}
+{
+"noise" "sound/ambience/narshaddaa/ns_streetint.wav"
+"spawnflags" "1"
+"origin" "2473 5536 2304"
+"classname" "target_speaker"
+}
+{
+"targetname" "t77"
+"origin" "2465 5536 2416"
+"classname" "info_null"
+}
+{
+"model" "*4"
+"classname" "trigger_hurt"
+"dmg" "-1"
+"spawnflags" "12"
+}
+{
+"origin" "-256 2176 1904"
+"classname" "weapon_rocket_launcher"
+}
+{
+"origin" "2880 1984 1904"
+"classname" "weapon_rocket_launcher"
+}
+{
+"origin" "768 1728 1384"
+"classname" "weapon_thermal"
+}
+{
+"origin" "1856 2432 1384"
+"classname" "weapon_thermal"
+}
+{
+"origin" "448 192 1384"
+"classname" "item_medpak_instant"
+}
+{
+"origin" "-128 192 1384"
+"classname" "item_shield_sm_instant"
+}
+{
+"origin" "2176 3968 1384"
+"classname" "item_medpak_instant"
+}
+{
+"origin" "2752 3968 1384"
+"classname" "item_shield_sm_instant"
+}
+{
+"origin" "3200 5568 1776"
+"classname" "weapon_repeater"
+}
+{
+"origin" "-576 -1408 1776"
+"classname" "weapon_repeater"
+}
+{
+"origin" "-192 1728 1824"
+"classname" "ammo_rockets"
+}
+{
+"origin" "2816 2432 1824"
+"classname" "ammo_rockets"
+}
+{
+"origin" "2624 5624 1928"
+"classname" "item_medpak_instant"
+}
+{
+"origin" "2304 5624 1928"
+"classname" "ammo_rockets"
+}
+{
+"origin" "0 -1464 1928"
+"classname" "item_medpak_instant"
+}
+{
+"origin" "320 -1464 1928"
+"classname" "ammo_rockets"
+}
+{
+"origin" "160 1088 1824"
+"classname" "weapon_flechette"
+}
+{
+"origin" "2464 3072 1824"
+"classname" "weapon_flechette"
+}
+{
+"origin" "1120 2672 1824"
+"classname" "ammo_metallic_bolts"
+}
+{
+"origin" "1504 1488 1824"
+"classname" "ammo_metallic_bolts"
+}
+{
+"origin" "896 -1408 1776"
+"classname" "weapon_trip_mine"
+}
+{
+"origin" "1728 5568 1776"
+"classname" "weapon_trip_mine"
+}
+{
+"origin" "-688 1472 1384"
+"classname" "weapon_disruptor"
+}
+{
+"origin" "3312 2688 1384"
+"classname" "weapon_disruptor"
+}
+{
+"origin" "2848 4384 1824"
+"classname" "ammo_metallic_bolts"
+}
+{
+"origin" "2080 4384 1824"
+"classname" "ammo_powercell"
+}
+{
+"origin" "-224 -224 1824"
+"classname" "ammo_metallic_bolts"
+}
+{
+"origin" "544 -224 1824"
+"classname" "ammo_powercell"
+}
+{
+"spawnflags" "1"
+"origin" "1312 2080 1600"
+"classname" "item_force_boon"
+}
+{
+"origin" "2096 2640 1824"
+"classname" "item_shield_sm_instant"
+}
+{
+"origin" "528 1520 1824"
+"classname" "item_shield_sm_instant"
+}
+{
+"origin" "3288 1520 1384"
+"classname" "ammo_powercell"
+}
+{
+"origin" "-664 2640 1384"
+"classname" "ammo_powercell"
+}
+{
+"classname" "team_CTF_redflag"
+"origin" "152 -1160 1920"
+"angle" "90"
+}
+{
+"classname" "team_CTF_blueflag"
+"origin" "2464 5312 1920"
+"angle" "270"
+}
+{
+"classname" "team_CTF_redplayer"
+"origin" "384 -832 1928"
+"angle" "90"
+}
+{
+"angle" "90"
+"origin" "320 -832 1928"
+"classname" "team_CTF_redplayer"
+}
+{
+"classname" "team_CTF_redplayer"
+"origin" "256 -832 1928"
+"angle" "90"
+}
+{
+"angle" "90"
+"origin" "-64 -832 1928"
+"classname" "team_CTF_redplayer"
+}
+{
+"classname" "team_CTF_redplayer"
+"origin" "0 -832 1928"
+"angle" "90"
+}
+{
+"angle" "90"
+"origin" "64 -832 1928"
+"classname" "team_CTF_redplayer"
+}
+{
+"classname" "team_CTF_blueplayer"
+"origin" "2624 4992 1928"
+"angle" "270"
+}
+{
+"angle" "270"
+"origin" "2688 4992 1928"
+"classname" "team_CTF_blueplayer"
+}
+{
+"classname" "team_CTF_blueplayer"
+"origin" "2240 4992 1928"
+"angle" "270"
+}
+{
+"angle" "270"
+"origin" "2304 4992 1928"
+"classname" "team_CTF_blueplayer"
+}
+{
+"classname" "team_CTF_blueplayer"
+"origin" "2368 4992 1928"
+"angle" "270"
+}
+{
+"angle" "270"
+"origin" "2560 4992 1928"
+"classname" "team_CTF_blueplayer"
+}
+{
+"angle" "90"
+"origin" "896 -704 1560"
+"classname" "team_CTF_redspawn"
+}
+{
+"angle" "90"
+"origin" "-576 -704 1560"
+"classname" "team_CTF_redspawn"
+}
+{
+"angle" "270"
+"origin" "1728 4864 1560"
+"classname" "team_CTF_bluespawn"
+}
+{
+"angle" "270"
+"origin" "3200 4864 1560"
+"classname" "team_CTF_bluespawn"
+}
+{
+"angle" "90"
+"origin" "-64 640 1832"
+"classname" "team_CTF_redspawn"
+}
+{
+"angle" "90"
+"origin" "384 640 1832"
+"classname" "team_CTF_redspawn"
+}
+{
+"angle" "270"
+"origin" "2240 3520 1832"
+"classname" "team_CTF_bluespawn"
+}
+{
+"angle" "270"
+"origin" "2688 3520 1832"
+"classname" "team_CTF_bluespawn"
+}
+{
+"angle" "180"
+"origin" "3264 2464 1832"
+"classname" "team_CTF_bluespawn"
+}
+{
+"origin" "-640 1696 1832"
+"classname" "team_CTF_redspawn"
+}
+{
+"origin" "-320 2624 1392"
+"classname" "team_CTF_redspawn"
+}
+{
+"angle" "180"
+"origin" "2944 1536 1392"
+"classname" "team_CTF_bluespawn"
+}
+{
+"angle" "270"
+"origin" "2240 5696 1936"
+"classname" "info_player_start_blue"
+}
+{
+"angle" "270"
+"origin" "2688 5696 1936"
+"classname" "info_player_start_blue"
+}
+{
+"angle" "90"
+"origin" "-64 -1536 1936"
+"classname" "info_player_start_red"
+}
+{
+"angle" "90"
+"origin" "384 -1536 1936"
+"classname" "info_player_start_red"
+}
+{
+"angle" "90"
+"origin" "-224 192 1832"
+"classname" "info_player_start_red"
+}
+{
+"angle" "90"
+"origin" "544 192 1832"
+"classname" "info_player_start_red"
+}
+{
+"angle" "270"
+"origin" "2080 3968 1832"
+"classname" "info_player_start_blue"
+}
+{
+"angle" "270"
+"origin" "2848 3968 1832"
+"classname" "info_player_start_blue"
+}
+{
+"angle" "270"
+"origin" "1728 4416 1392"
+"classname" "info_player_start_blue"
+}
+{
+"angle" "270"
+"origin" "3200 4416 1392"
+"classname" "info_player_start_blue"
+}
+{
+"angle" "90"
+"origin" "896 -256 1392"
+"classname" "info_player_start_red"
+}
+{
+"angle" "90"
+"origin" "-576 -256 1392"
+"classname" "info_player_start_red"
+}
+{
+"classname" "info_player_start"
+"origin" "-448 -1408 1776"
+"angle" "90"
+}
+{
+"classname" "info_player_start"
+"origin" "768 -1408 1776"
+"angle" "90"
+}
+{
+"classname" "info_player_start"
+"origin" "1856 5568 1776"
+"angle" "270"
+}
+{
+"classname" "info_player_start"
+"origin" "3072 5568 1776"
+"angle" "270"
+}
+{
+"classname" "info_player_start"
+"origin" "3200 3968 1392"
+"angle" "270"
+}
+{
+"classname" "info_player_start"
+"origin" "1728 3968 1392"
+"angle" "270"
+}
+{
+"classname" "info_player_start"
+"origin" "-576 192 1392"
+"angle" "90"
+}
+{
+"classname" "info_player_start"
+"origin" "896 192 1392"
+"angle" "90"
+}
+{
+"classname" "info_player_start"
+"origin" "1504 2496 1824"
+"angle" "180"
+}
+{
+"classname" "info_player_start"
+"origin" "1120 2496 1824"
+}
+{
+"classname" "info_player_start"
+"origin" "1504 1664 1824"
+"angle" "180"
+}
+{
+"classname" "info_player_start"
+"origin" "1120 1664 1824"
+}
+{
+"classname" "info_b_e_location"
+"origin" "160 192 1384"
+"message" "Jumppad"
+"teamowner" "1"
+}
+{
+"classname" "info_b_e_location"
+"origin" "2464 3968 1384"
+"message" "Jumppad"
+"teamowner" "2"
+}
+{
+"classname" "info_b_e_location"
+"origin" "160 192 1824"
+"message" "Golan"
+"teamowner" "1"
+}
+{
+"classname" "info_b_e_location"
+"origin" "2464 3968 1824"
+"message" "Golan"
+"teamowner" "2"
+}
+{
+"classname" "info_b_e_location"
+"origin" "1312 2080 1824"
+"message" "Mid"
+}
+{
+"classname" "info_b_e_location"
+"origin" "1312 2080 1834"
+"message" "Mid"
+}
+{
+"classname" "info_b_e_location"
+"origin" "224 2648 1824"
+"message" "Rockets"
+"teamowner" "1"
+}
+{
+"classname" "info_b_e_location"
+"origin" "2400 1504 1824"
+"message" "Rockets"
+"teamowner" "2"
+}
+{
+"classname" "info_b_e_location"
+"origin" "224 2648 1384"
+"message" "Disruptor"
+"teamowner" "1"
+}
+{
+"classname" "info_b_e_location"
+"origin" "2400 1504 1384"
+"message" "Disruptor"
+"teamowner" "2"
+}
