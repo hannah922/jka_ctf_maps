@@ -27,7 +27,7 @@ Structural:
     ☐ extend base?
     ☐ Raise or lower flagstand platform?
     ☐ Extend pit by the wall near rocket ammo
-    ☐ Make the jump pad near flag stand have teh same look as the previous jump pad
+    ✔ Make the jump pad near flag stand identical to the previous jump pad @done(22-01-13 01:40)
     ✔ fix water @done(22-01-12 18:20)
     ☐ Make the arch by the shields taller and wider
     ✔ Add lighting @done(22-01-13 01:14)
