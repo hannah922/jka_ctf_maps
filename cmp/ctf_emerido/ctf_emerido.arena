@@ -1,0 +1,5 @@
+{
+	map			"mp/ctf_emerido"
+	longname		"^2(CMP) ^7Emerido Control Center - ^2v1"
+	type			"ctf"
+}
