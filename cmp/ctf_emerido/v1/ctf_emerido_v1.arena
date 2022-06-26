@@ -1,5 +1,5 @@
 {
-map			"mp/ctf_emerido"
+map			"mp/ctf_emerido_v1"
 longname		"Emerido Control Center"
 type			"ctf"
 }
