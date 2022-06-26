@@ -1,0 +1,134 @@
+Particle
+{
+	spawnFlags			evenDistribution rgbComponentInterpolation
+
+	count				2 3
+
+	life				600 900
+
+	delay				0 200
+
+	origin				0 -8 -8 0 8 8
+
+	rotation			87 93
+
+	rotationDelta		-4 4
+
+	velocity			0 -5 -5 10 5 5
+
+	gravity				20 60
+
+	rgb
+	{
+		start			0.4843 0.4843 1 0.2902 0.2902 1
+	}
+
+	alpha
+	{
+		end				0
+		parm			50
+		flags			linear nonlinear
+	}
+
+	size
+	{
+		start			3 6
+		end				24 28
+		parm			50
+		flags			linear clamp
+	}
+
+	shaders
+	[
+		gfx/effects/fire5
+		gfx/effects/fire6
+		gfx/effects/fire7
+	]
+}
+
+Particle
+{
+	spawnFlags			evenDistribution
+
+	life				500 1400
+
+	delay				0 200
+
+	cullrange			350
+
+	origin				10 -6 -6 20 6 6
+
+	velocity			10 0 0 20 0 0
+
+	acceleration		0 -10 -10 0 10 10
+
+	gravity				40 70
+
+	alpha
+	{
+		end				0
+		parm			60
+		flags			linear nonlinear
+	}
+
+	size
+	{
+		start			10 12
+		end				16 20
+		flags			linear
+	}
+
+	shaders
+	[
+		gfx/misc/steam
+	]
+}
+
+Particle
+{
+	name				Copy of Unnamed Particle 1
+
+	spawnFlags			evenDistribution
+
+	count				4 5
+
+	life				500 1000
+
+	delay				0 200
+
+	cullrange			275
+
+	origin				10 -10 -10 20 10 10
+
+	velocity			10 0 0 20 0 0
+
+	acceleration		0 -5 -5 0 5 5
+
+	gravity				50 80
+
+	rgb
+	{
+		start			0 0.3078 1 0.3216 0.3804 0.9961 
+		end				0 0 0
+		parm			70
+		flags			linear nonlinear
+	}
+
+	alpha
+	{
+		end				0
+		parm			2 5
+		flags			wave
+	}
+
+	size
+	{
+		start			0.6 1.5
+		end				1 2
+	}
+
+	shaders
+	[
+		gfx/effects/whiteFlare
+	]
+}
