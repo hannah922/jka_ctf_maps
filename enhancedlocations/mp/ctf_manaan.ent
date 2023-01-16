@@ -1,0 +1,1198 @@
+{
+"classname" "worldspawn"
+"music" "music/mp/mp_action1.mp3"
+"_lightmapscale" "2"
+"message" "Manaan Kolto Plant (edited)"
+"pitheight" "-600"
+"locationsonly" "1"
+}
+{
+"classname" "target_position"
+"origin" "-3584 1376 324"
+"targetname" "t4"
+}
+{
+"classname" "trigger_push"
+"target" "t4"
+"model" "*1"
+}
+{
+"classname" "target_position"
+"targetname" "t5"
+"origin" "-800 1376 324"
+}
+{
+"classname" "trigger_push"
+"target" "t5"
+"model" "*2"
+}
+{
+"classname" "target_position"
+"origin" "-6368 1376 324"
+"targetname" "t6"
+}
+{
+"classname" "trigger_push"
+"target" "t6"
+"model" "*3"
+}
+{
+"classname" "target_position"
+"origin" "-1824 3488 324"
+"targetname" "t7"
+}
+{
+"classname" "trigger_push"
+"target" "t7"
+"model" "*4"
+}
+{
+"classname" "target_position"
+"targetname" "t8"
+"origin" "-2464 3296 324"
+}
+{
+"classname" "trigger_push"
+"target" "t8"
+"model" "*5"
+}
+{
+"classname" "target_position"
+"origin" "-1184 3296 324"
+"targetname" "t9"
+}
+{
+"classname" "trigger_push"
+"target" "t9"
+"model" "*6"
+}
+{
+"classname" "target_position"
+"origin" "-4704 -544 324"
+"targetname" "t10"
+}
+{
+"classname" "trigger_push"
+"target" "t10"
+"model" "*7"
+}
+{
+"classname" "target_position"
+"targetname" "t11"
+"origin" "-5984 -544 324"
+}
+{
+"classname" "trigger_push"
+"target" "t11"
+"model" "*8"
+}
+{
+"classname" "target_position"
+"targetname" "t12"
+"origin" "-5344 -736 324"
+}
+{
+"classname" "trigger_push"
+"target" "t12"
+"model" "*9"
+}
+{
+"classname" "weapon_flechette"
+"origin" "-1824 2784 -160"
+}
+{
+"classname" "trigger_hurt"
+"spawnflags" "12"
+"dmg" "-1"
+"model" "*10"
+}
+{
+"classname" "func_glass"
+"health" "9000"
+"model" "*11"
+}
+{
+"classname" "func_glass"
+"health" "9000"
+"model" "*12"
+}
+{
+"classname" "func_glass"
+"health" "9000"
+"model" "*13"
+}
+{
+"classname" "func_glass"
+"health" "9000"
+"model" "*14"
+}
+{
+"classname" "func_glass"
+"health" "9000"
+"model" "*15"
+}
+{
+"classname" "func_glass"
+"health" "9000"
+"model" "*16"
+}
+{
+"classname" "func_glass"
+"health" "9000"
+"model" "*17"
+}
+{
+"classname" "func_glass"
+"health" "9000"
+"model" "*18"
+}
+{
+"classname" "item_force_boon"
+"origin" "-3584 1376 208"
+"spawnflags" "1"
+}
+{
+"classname" "weapon_rocket_launcher"
+"origin" "-1120 1888 160"
+}
+{
+"classname" "team_CTF_blueflag"
+"angle" "270"
+"origin" "-1824 3840 192"
+}
+{
+"classname" "team_CTF_redflag"
+"angle" "90"
+"origin" "-5344 -1088 192"
+}
+{
+"classname" "team_CTF_blueplayer"
+"angle" "270"
+"origin" "-2112 3648 160"
+}
+{
+"classname" "team_CTF_blueplayer"
+"origin" "-2240 3648 160"
+"angle" "270"
+}
+{
+"classname" "team_CTF_blueplayer"
+"angle" "270"
+"origin" "-2368 3648 160"
+}
+{
+"classname" "team_CTF_blueplayer"
+"origin" "-1280 3648 160"
+"angle" "270"
+}
+{
+"classname" "team_CTF_blueplayer"
+"angle" "270"
+"origin" "-1408 3648 160"
+}
+{
+"classname" "team_CTF_blueplayer"
+"origin" "-1536 3648 160"
+"angle" "270"
+}
+{
+"classname" "team_CTF_redplayer"
+"angle" "90"
+"origin" "-4928 -896 160"
+}
+{
+"classname" "team_CTF_redplayer"
+"origin" "-5056 -896 160"
+"angle" "90"
+}
+{
+"classname" "team_CTF_redplayer"
+"angle" "90"
+"origin" "-4800 -896 160"
+}
+{
+"classname" "team_CTF_redplayer"
+"origin" "-5760 -896 160"
+"angle" "90"
+}
+{
+"classname" "team_CTF_redplayer"
+"angle" "90"
+"origin" "-5888 -896 160"
+}
+{
+"classname" "team_CTF_redplayer"
+"origin" "-5632 -896 160"
+"angle" "90"
+}
+{
+"classname" "item_shield_sm_instant"
+"origin" "-2688 800 -416"
+"angle" "90"
+}
+{
+"classname" "item_medpak_instant"
+"origin" "-2240 800 -416"
+"angle" "90"
+}
+{
+"classname" "weapon_disruptor"
+"origin" "-896 4000 160"
+}
+{
+"classname" "ammo_powercell"
+"origin" "-560 3608 160"
+}
+{
+"classname" "weapon_thermal"
+"origin" "-2528 1824 -480"
+}
+{
+"classname" "ammo_metallic_bolts"
+"origin" "-2528 2784 -480"
+"angle" "90"
+}
+{
+"classname" "weapon_trip_mine"
+"origin" "-1824 2784 -480"
+}
+{
+"classname" "ammo_rockets"
+"origin" "-624 1888 160"
+}
+{
+"classname" "weapon_repeater"
+"origin" "-2752 4000 160"
+}
+{
+"classname" "ammo_rockets"
+"origin" "-560 3776 480"
+}
+{
+"classname" "item_medpak_instant"
+"origin" "-3088 3776 480"
+}
+{
+"classname" "ammo_powercell"
+"origin" "-1120 2784 -480"
+"angle" "90"
+}
+{
+"classname" "ammo_metallic_bolts"
+"origin" "-3328 1936 160"
+"angle" "90"
+}
+{
+"classname" "ammo_metallic_bolts"
+"origin" "-3264 1936 160"
+"angle" "90"
+}
+{
+"classname" "weapon_flechette"
+"origin" "-5344 -32 -160"
+}
+{
+"classname" "weapon_rocket_launcher"
+"origin" "-6048 864 160"
+}
+{
+"classname" "item_shield_sm_instant"
+"angle" "90"
+"origin" "-4480 1952 -416"
+}
+{
+"classname" "item_medpak_instant"
+"angle" "90"
+"origin" "-4928 1952 -416"
+}
+{
+"classname" "weapon_disruptor"
+"origin" "-6272 -1248 160"
+}
+{
+"classname" "ammo_powercell"
+"origin" "-6608 -856 160"
+}
+{
+"classname" "weapon_thermal"
+"origin" "-4640 928 -480"
+}
+{
+"classname" "ammo_metallic_bolts"
+"angle" "90"
+"origin" "-4640 -32 -480"
+}
+{
+"classname" "weapon_trip_mine"
+"origin" "-5344 -32 -480"
+}
+{
+"classname" "ammo_rockets"
+"origin" "-6544 864 160"
+}
+{
+"classname" "weapon_repeater"
+"origin" "-4416 -1248 160"
+}
+{
+"classname" "ammo_rockets"
+"origin" "-6608 -1024 480"
+}
+{
+"classname" "item_medpak_instant"
+"origin" "-4080 -1024 480"
+}
+{
+"classname" "ammo_powercell"
+"angle" "90"
+"origin" "-6048 -32 -480"
+}
+{
+"classname" "ammo_metallic_bolts"
+"angle" "90"
+"origin" "-3840 816 160"
+}
+{
+"classname" "ammo_metallic_bolts"
+"angle" "90"
+"origin" "-3904 816 160"
+}
+{
+"classname" "team_CTF_bluespawn"
+"origin" "-3072 3616 168"
+"angle" "315"
+}
+{
+"classname" "team_CTF_bluespawn"
+"origin" "-1632 2528 -152"
+"angle" "135"
+}
+{
+"classname" "team_CTF_bluespawn"
+"angle" "45"
+"origin" "-2016 2528 -152"
+}
+{
+"classname" "team_CTF_bluespawn"
+"origin" "-1120 2528 -480"
+"angle" "135"
+}
+{
+"classname" "team_CTF_bluespawn"
+"origin" "-1568 864 -472"
+"angle" "135"
+}
+{
+"classname" "team_CTF_bluespawn"
+"origin" "-1120 928 168"
+"angle" "135"
+}
+{
+"classname" "team_CTF_bluespawn"
+"origin" "-832 4064 488"
+"angle" "225"
+}
+{
+"classname" "team_CTF_bluespawn"
+"origin" "-2048 832 168"
+"angle" "135"
+}
+{
+"classname" "team_CTF_redspawn"
+"origin" "-6048 1824 168"
+"angle" "315"
+}
+{
+"classname" "team_CTF_redspawn"
+"origin" "-5600 1888 -472"
+"angle" "315"
+}
+{
+"classname" "team_CTF_redspawn"
+"origin" "-5120 1920 168"
+"angle" "315"
+}
+{
+"classname" "team_CTF_redspawn"
+"origin" "-5536 224 -152"
+"angle" "315"
+}
+{
+"classname" "team_CTF_redspawn"
+"origin" "-5152 224 -152"
+"angle" "225"
+}
+{
+"classname" "team_CTF_redspawn"
+"origin" "-6048 224 -480"
+"angle" "315"
+}
+{
+"classname" "team_CTF_redspawn"
+"origin" "-4096 -864 168"
+"angle" "135"
+}
+{
+"classname" "team_CTF_redspawn"
+"origin" "-6336 -1312 488"
+"angle" "45"
+}
+{
+"classname" "info_player_start_blue"
+"angle" "225"
+"origin" "-928 3488 168"
+}
+{
+"classname" "info_player_start_blue"
+"origin" "-2720 3488 168"
+"angle" "315"
+}
+{
+"classname" "info_player_start_blue"
+"angle" "90"
+"origin" "-1120 928 -472"
+}
+{
+"classname" "info_player_start_blue"
+"angle" "225"
+"origin" "-2528 2336 -464"
+}
+{
+"classname" "info_player_start_red"
+"angle" "135"
+"origin" "-4448 -736 168"
+}
+{
+"classname" "info_player_start_red"
+"angle" "45"
+"origin" "-6240 -736 168"
+}
+{
+"classname" "info_player_start_red"
+"angle" "45"
+"origin" "-4640 416 -472"
+}
+{
+"classname" "info_player_start_red"
+"angle" "270"
+"origin" "-6048 1824 -472"
+}
+{
+"classname" "info_player_start"
+"angle" "270"
+"origin" "-1824 4064 184"
+}
+{
+"classname" "info_player_start"
+"angle" "135"
+"origin" "-1824 1568 -472"
+}
+{
+"classname" "info_player_start"
+"angle" "225"
+"origin" "-672 2720 296"
+}
+{
+"classname" "info_player_start"
+"angle" "135"
+"origin" "-2880 832 168"
+}
+{
+"classname" "info_player_start"
+"origin" "-5344 -1312 184"
+"angle" "90"
+}
+{
+"classname" "info_player_start"
+"origin" "-5344 1184 -472"
+"angle" "315"
+}
+{
+"classname" "info_player_start"
+"origin" "-6496 32 296"
+"angle" "45"
+}
+{
+"classname" "info_player_start"
+"origin" "-4288 1920 168"
+"angle" "315"
+}
+{
+"classname" "weapon_concussion_rifle"
+"origin" "-2464 1176 160"
+}
+{
+"classname" "weapon_concussion_rifle"
+"origin" "-4704 1576 160"
+"angle" "180"
+}
+{
+"classname" "info_b_e_location"
+"origin" "-5344 -1088 216"
+"message" "Flagstand"
+"teamowner" "1"
+"min_z" "125"
+}
+{
+"classname" "info_b_e_location"
+"origin" "-6272 -1248 216"
+"message" "Disruptor"
+"teamowner" "1"
+"min_z" "125"
+}
+{
+"classname" "info_b_e_location"
+"origin" "-6344 -920 216"
+"message" "Disruptor"
+"teamowner" "1"
+"min_z" "125"
+}
+{
+"classname" "info_b_e_location"
+"origin" "-6272 -1248 472"
+"message" "Disruptor"
+"teamowner" "1"
+"min_z" "125"
+}
+{
+"classname" "info_b_e_location"
+"origin" "-6344 -920 472"
+"message" "Disruptor"
+"teamowner" "1"
+"min_z" "125"
+}
+{
+"classname" "info_b_e_location"
+"origin" "-4416 -1248 216"
+"message" "Repeater"
+"teamowner" "1"
+"min_z" "125"
+}
+{
+"classname" "info_b_e_location"
+"origin" "-4344 -920 216"
+"message" "Repeater"
+"teamowner" "1"
+"min_z" "125"
+}
+{
+"classname" "info_b_e_location"
+"origin" "-4416 -1248 472"
+"message" "Repeater"
+"teamowner" "1"
+"min_z" "125"
+}
+{
+"classname" "info_b_e_location"
+"origin" "-4344 -920 472"
+"message" "Repeater"
+"teamowner" "1"
+"min_z" "125"
+}
+{
+"classname" "info_b_e_location"
+"origin" "-5344 -32 -136"
+"message" "Golan"
+"teamowner" "1"
+"min_z" "-190"
+"max_z" "125"
+}
+{
+"classname" "info_b_e_location"
+"origin" "-4704 -544 -136"
+"message" "Golan"
+"teamowner" "1"
+"min_z" "-190"
+"max_z" "125"
+}
+{
+"classname" "info_b_e_location"
+"origin" "-5984 -544 -136"
+"message" "Golan"
+"teamowner" "1"
+"min_z" "-190"
+"max_z" "125"
+}
+{
+"classname" "info_b_e_location"
+"origin" "-5344 -32 -456"
+"message" "Mines"
+"teamowner" "1"
+"max_z" "-190"
+}
+{
+"classname" "info_b_e_location"
+"origin" "-5344 -736 -456"
+"message" "Mines"
+"teamowner" "1"
+"max_z" "125"
+}
+{
+"classname" "info_b_e_location"
+"origin" "-5344 -736 -136"
+"message" "Mines"
+"teamowner" "1"
+"max_z" "125"
+}
+{
+"classname" "info_b_e_location"
+"origin" "-5344 -736 216"
+"message" "Flagstand"
+"teamowner" "1"
+"min_z" "125"
+}
+{
+"classname" "info_b_e_location"
+"origin" "-5344 -544 -136"
+"message" "Golan"
+"teamowner" "1"
+"min_z" "-190"
+"max_z" "125"
+}
+{
+"classname" "info_b_e_location"
+"origin" "-5088 -672 -136"
+"message" "Golan"
+"teamowner" "1"
+"min_z" "-190"
+"max_z" "125"
+}
+{
+"classname" "info_b_e_location"
+"origin" "-5600 -672 -136"
+"message" "Golan"
+"teamowner" "1"
+"min_z" "-190"
+"max_z" "125"
+}
+{
+"classname" "info_b_e_location"
+"origin" "-4640 -32 -456"
+"message" "Mines"
+"teamowner" "1"
+"max_z" "-190"
+}
+{
+"classname" "info_b_e_location"
+"origin" "-4640 440 -456"
+"message" "Thermals"
+"teamowner" "1"
+"max_z" "125"
+}
+{
+"classname" "info_b_e_location"
+"origin" "-4640 928 -456"
+"message" "Thermals"
+"teamowner" "1"
+"max_z" "125"
+}
+{
+"classname" "info_b_e_location"
+"origin" "-4640 392 -456"
+"message" "Mines"
+"teamowner" "1"
+"max_z" "-190"
+}
+{
+"classname" "info_b_e_location"
+"origin" "-4128 928 -456"
+"message" "Thermals"
+"teamowner" "1"
+"max_z" "125"
+}
+{
+"classname" "info_b_e_location"
+"origin" "-4112 928 -456"
+"message" "Mid Bottom"
+"max_z" "-167"
+}
+{
+"classname" "info_b_e_location"
+"origin" "-3584 1376 -456"
+"message" "Mid Bottom"
+}
+{
+"classname" "info_b_e_location"
+"origin" "-3584 1376 232"
+"message" "Mid Top"
+}
+{
+"classname" "info_b_e_location"
+"origin" "-4128 1824 -456"
+"message" "Armor"
+"teamowner" "1"
+"max_z" "125"
+}
+{
+"classname" "info_b_e_location"
+"origin" "-4112 1824 -456"
+"message" "Mid Bottom"
+"max_z" "125"
+}
+{
+"classname" "info_b_e_location"
+"origin" "-4704 1856 -456"
+"message" "Armor"
+"teamowner" "1"
+"max_z" "125"
+}
+{
+"classname" "info_b_e_location"
+"origin" "-5344 1200 -456"
+"message" "Armor"
+"teamowner" "1"
+"max_z" "125"
+}
+{
+"classname" "info_b_e_location"
+"origin" "-5344 1168 -456"
+"message" "Golan"
+"teamowner" "1"
+"max_z" "125"
+}
+{
+"classname" "info_b_e_location"
+"origin" "-6368 1376 -456"
+"message" "Armor"
+"teamowner" "1"
+"max_z" "125"
+}
+{
+"classname" "info_b_e_location"
+"origin" "-6368 1376 216"
+"message" "Rockets"
+"teamowner" "1"
+"min_z" "125"
+}
+{
+"classname" "info_b_e_location"
+"origin" "-6048 864 216"
+"message" "Rockets"
+"teamowner" "1"
+"min_z" "125"
+}
+{
+"classname" "info_b_e_location"
+"origin" "-4704 1576 216"
+"message" "Concussion"
+"teamowner" "1"
+"min_z" "125"
+}
+{
+"classname" "info_b_e_location"
+"origin" "-3584 992 232"
+"message" "Mid Top"
+"min_z" "125"
+}
+{
+"classname" "info_b_e_location"
+"origin" "-3584 1760 232"
+"message" "Mid Top"
+"max_z" "-167"
+}
+{
+"classname" "info_b_e_location"
+"origin" "-4312 1048 232"
+"message" "Mid Top"
+"min_z" "125"
+}
+{
+"classname" "info_b_e_location"
+"origin" "-4280 1528 232"
+"message" "Concussion"
+"teamowner" "1"
+"min_z" "125"
+}
+{
+"classname" "info_b_e_location"
+"origin" "-6048 1016 -456"
+"message" "Armor"
+"teamowner" "1"
+"max_z" "125"
+}
+{
+"classname" "info_b_e_location"
+"origin" "-6048 1000 -456"
+"message" "Mines"
+"teamowner" "1"
+"max_z" "125"
+}
+{
+"classname" "info_b_e_location"
+"origin" "-3584 992 -456"
+"message" "Mid Bottom"
+"max_z" "125"
+}
+{
+"classname" "info_b_e_location"
+"origin" "-3584 1760 -456"
+"message" "Mid Bottom"
+"max_z" "125"
+}
+{
+"classname" "info_b_e_location"
+"origin" "-5192 624 -320"
+"message" "Golan"
+"teamowner" "1"
+"max_z" "125"
+}
+{
+"classname" "info_b_e_location"
+"origin" "-5192 432 -224"
+"message" "Golan"
+"teamowner" "1"
+"max_z" "125"
+}
+{
+"classname" "info_b_e_location"
+"origin" "-4792 440 -456"
+"message" "Thermals"
+"teamowner" "1"
+"max_z" "125"
+}
+{
+"classname" "info_b_e_location"
+"origin" "-4792 928 -456"
+"message" "Thermals"
+"teamowner" "1"
+"max_z" "125"
+}
+{
+"classname" "info_b_e_location"
+"origin" "-1824 3840 216"
+"message" "Flagstand"
+"teamowner" "2"
+"min_z" "125"
+"angle" "180"
+}
+{
+"classname" "info_b_e_location"
+"origin" "-896 4000 216"
+"message" "Disruptor"
+"teamowner" "2"
+"min_z" "125"
+"angle" "180"
+}
+{
+"classname" "info_b_e_location"
+"origin" "-824 3672 216"
+"message" "Disruptor"
+"teamowner" "2"
+"min_z" "125"
+"angle" "180"
+}
+{
+"classname" "info_b_e_location"
+"origin" "-896 4000 472"
+"message" "Disruptor"
+"teamowner" "2"
+"min_z" "125"
+"angle" "180"
+}
+{
+"classname" "info_b_e_location"
+"origin" "-824 3672 472"
+"message" "Disruptor"
+"teamowner" "2"
+"min_z" "125"
+"angle" "180"
+}
+{
+"classname" "info_b_e_location"
+"origin" "-2752 4000 216"
+"message" "Repeater"
+"teamowner" "2"
+"min_z" "125"
+"angle" "180"
+}
+{
+"classname" "info_b_e_location"
+"origin" "-2824 3672 216"
+"message" "Repeater"
+"teamowner" "2"
+"min_z" "125"
+"angle" "180"
+}
+{
+"classname" "info_b_e_location"
+"origin" "-2752 4000 472"
+"message" "Repeater"
+"teamowner" "2"
+"min_z" "125"
+"angle" "180"
+}
+{
+"classname" "info_b_e_location"
+"origin" "-2824 3672 472"
+"message" "Repeater"
+"teamowner" "2"
+"min_z" "125"
+"angle" "180"
+}
+{
+"classname" "info_b_e_location"
+"origin" "-1824 2784 -136"
+"message" "Golan"
+"teamowner" "2"
+"min_z" "-190"
+"max_z" "125"
+"angle" "180"
+}
+{
+"classname" "info_b_e_location"
+"origin" "-2464 3296 -136"
+"message" "Golan"
+"teamowner" "2"
+"min_z" "-190"
+"max_z" "125"
+"angle" "180"
+}
+{
+"classname" "info_b_e_location"
+"origin" "-1184 3296 -136"
+"message" "Golan"
+"teamowner" "2"
+"min_z" "-190"
+"max_z" "125"
+"angle" "180"
+}
+{
+"classname" "info_b_e_location"
+"origin" "-1824 2784 -456"
+"message" "Mines"
+"teamowner" "2"
+"max_z" "-190"
+"angle" "180"
+}
+{
+"classname" "info_b_e_location"
+"origin" "-1824 3488 -456"
+"message" "Mines"
+"teamowner" "2"
+"max_z" "125"
+"angle" "180"
+}
+{
+"classname" "info_b_e_location"
+"origin" "-1824 3488 -136"
+"message" "Mines"
+"teamowner" "2"
+"max_z" "125"
+"angle" "180"
+}
+{
+"classname" "info_b_e_location"
+"origin" "-1824 3488 216"
+"message" "Flagstand"
+"teamowner" "2"
+"min_z" "125"
+"angle" "180"
+}
+{
+"classname" "info_b_e_location"
+"origin" "-1824 3296 -136"
+"message" "Golan"
+"teamowner" "2"
+"min_z" "-190"
+"max_z" "125"
+"angle" "180"
+}
+{
+"classname" "info_b_e_location"
+"origin" "-2080 3424 -136"
+"message" "Golan"
+"teamowner" "2"
+"min_z" "-190"
+"max_z" "125"
+"angle" "180"
+}
+{
+"classname" "info_b_e_location"
+"origin" "-1568 3424 -136"
+"message" "Golan"
+"teamowner" "2"
+"min_z" "-190"
+"max_z" "125"
+"angle" "180"
+}
+{
+"classname" "info_b_e_location"
+"origin" "-2528 2784 -456"
+"message" "Mines"
+"teamowner" "2"
+"max_z" "-190"
+"angle" "180"
+}
+{
+"classname" "info_b_e_location"
+"origin" "-2528 2312 -456"
+"message" "Thermals"
+"teamowner" "2"
+"max_z" "125"
+"angle" "180"
+}
+{
+"classname" "info_b_e_location"
+"origin" "-2528 1824 -456"
+"message" "Thermals"
+"teamowner" "2"
+"max_z" "125"
+"angle" "180"
+}
+{
+"classname" "info_b_e_location"
+"origin" "-2528 2360 -456"
+"message" "Mines"
+"teamowner" "2"
+"max_z" "-190"
+"angle" "180"
+}
+{
+"classname" "info_b_e_location"
+"origin" "-3040 1824 -456"
+"message" "Thermals"
+"teamowner" "2"
+"max_z" "125"
+"angle" "180"
+}
+{
+"classname" "info_b_e_location"
+"origin" "-3056 1824 -456"
+"message" "Mid Bottom"
+"max_z" "-167"
+"angle" "180"
+}
+{
+"classname" "info_b_e_location"
+"origin" "-3040 928 -456"
+"message" "Armor"
+"teamowner" "2"
+"max_z" "125"
+"angle" "180"
+}
+{
+"classname" "info_b_e_location"
+"origin" "-3056 928 -456"
+"message" "Mid Bottom"
+"max_z" "125"
+"angle" "180"
+}
+{
+"classname" "info_b_e_location"
+"origin" "-2464 896 -456"
+"message" "Armor"
+"teamowner" "2"
+"max_z" "125"
+"angle" "180"
+}
+{
+"classname" "info_b_e_location"
+"origin" "-1824 1552 -456"
+"message" "Armor"
+"teamowner" "2"
+"max_z" "125"
+"angle" "180"
+}
+{
+"classname" "info_b_e_location"
+"origin" "-1824 1584 -456"
+"message" "Golan"
+"teamowner" "2"
+"max_z" "125"
+"angle" "180"
+}
+{
+"classname" "info_b_e_location"
+"origin" "-800 1376 -456"
+"message" "Armor"
+"teamowner" "2"
+"max_z" "125"
+"angle" "180"
+}
+{
+"classname" "info_b_e_location"
+"origin" "-800 1376 216"
+"message" "Rockets"
+"teamowner" "2"
+"min_z" "125"
+"angle" "180"
+}
+{
+"classname" "info_b_e_location"
+"origin" "-1120 1888 216"
+"message" "Rockets"
+"teamowner" "2"
+"min_z" "125"
+"angle" "180"
+}
+{
+"classname" "info_b_e_location"
+"origin" "-2464 1176 216"
+"message" "Concussion"
+"teamowner" "2"
+"min_z" "125"
+"angle" "180"
+}
+{
+"classname" "info_b_e_location"
+"origin" "-2856 1704 232"
+"message" "Mid Top"
+"min_z" "125"
+"angle" "180"
+}
+{
+"classname" "info_b_e_location"
+"origin" "-2888 1224 232"
+"message" "Concussion"
+"teamowner" "2"
+"min_z" "125"
+"angle" "180"
+}
+{
+"classname" "info_b_e_location"
+"origin" "-1120 1736 -456"
+"message" "Armor"
+"teamowner" "2"
+"max_z" "125"
+"angle" "180"
+}
+{
+"classname" "info_b_e_location"
+"origin" "-1120 1752 -456"
+"message" "Mines"
+"teamowner" "2"
+"max_z" "125"
+"angle" "180"
+}
+{
+"classname" "info_b_e_location"
+"origin" "-1976 2128 -320"
+"message" "Golan"
+"teamowner" "2"
+"max_z" "125"
+"angle" "180"
+}
+{
+"classname" "info_b_e_location"
+"origin" "-1976 2320 -224"
+"message" "Golan"
+"teamowner" "2"
+"max_z" "125"
+"angle" "180"
+}
+{
+"classname" "info_b_e_location"
+"origin" "-2376 2312 -456"
+"message" "Thermals"
+"teamowner" "2"
+"max_z" "125"
+"angle" "180"
+}
+{
+"classname" "info_b_e_location"
+"origin" "-2376 1824 -456"
+"message" "Thermals"
+"teamowner" "2"
+"max_z" "125"
+"angle" "180"
+}
