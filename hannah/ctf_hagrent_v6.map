@@ -6,7 +6,7 @@
 "music" "music/mp/mp_action1.mp3"
 "distancecull" "12000"
 "_keeplights" "1"
-"locationaccuracy" "40"
+"locationaccuracy" "35"
 "pitheight" "-450"
 // brush 0
 {
