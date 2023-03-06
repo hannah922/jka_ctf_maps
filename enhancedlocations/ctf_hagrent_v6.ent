@@ -1,0 +1,2000 @@
+{
+"classname" "worldspawn"
+"message" "Hagrent Hideout"
+"music" "music/mp/mp_action1.mp3"
+"distancecull" "12000"
+"_keeplights" "1"
+"_q3map2_cmdline" "-bsp -meta; -vis -saveprt; -light -fast -filter -super 2"
+"_q3map2_version" "2.5.17n-git-48a6cf3c"
+"pitheight" "-420"
+"locationsonly" "1"
+"locationaccuracy" "40"
+}
+{
+"classname" "trigger_push"
+"target" "target_push1"
+"model" "*1"
+}
+{
+"classname" "target_push"
+"origin" "4544 584 544"
+"targetname" "target_push1"
+}
+{
+"classname" "trigger_push"
+"target" "target_push4"
+"model" "*2"
+}
+{
+"classname" "target_push"
+"origin" "6992 768 424"
+"targetname" "target_push4"
+}
+{
+"classname" "trigger_push"
+"target" "target_push6"
+"model" "*3"
+}
+{
+"classname" "target_push"
+"origin" "7608 576 120"
+"targetname" "target_push6"
+}
+{
+"classname" "info_player_start"
+"origin" "5040 -104 192"
+"angle" "0"
+}
+{
+"classname" "item_medpak_instant"
+"origin" "7536 120 -280"
+}
+{
+"classname" "ammo_rockets"
+"origin" "4444 1076 448"
+}
+{
+"classname" "team_CTF_blueplayer"
+"origin" "6832 -464 88"
+"angle" "180"
+}
+{
+"classname" "team_CTF_blueplayer"
+"origin" "6832 -560 88"
+"angle" "180"
+}
+{
+"classname" "team_CTF_blueplayer"
+"origin" "6832 -608 88"
+"angle" "180"
+}
+{
+"classname" "team_CTF_blueplayer"
+"origin" "6832 -416 88"
+"angle" "180"
+}
+{
+"classname" "team_CTF_blueplayer"
+"origin" "6784 -512 88"
+"angle" "180"
+}
+{
+"classname" "team_CTF_blueflag"
+"origin" "6872 104 80"
+"angle" "180"
+}
+{
+"classname" "team_CTF_bluespawn"
+"origin" "7328 568 96"
+"angle" "180"
+}
+{
+"classname" "team_CTF_bluespawn"
+"origin" "5624 -80 -24"
+"angle" "180"
+}
+{
+"classname" "trigger_hurt"
+"dmg" "-1"
+"spawnflags" "12"
+"model" "*4"
+}
+{
+"classname" "ammo_metallic_bolts"
+"origin" "5048 -296 -56"
+}
+{
+"classname" "ammo_metallic_bolts"
+"origin" "4256 16 -56"
+}
+{
+"classname" "ammo_metallic_bolts"
+"origin" "6624 640 64"
+}
+{
+"classname" "target_push"
+"origin" "5760 624 480"
+"targetname" "target_push8"
+}
+{
+"classname" "team_CTF_bluespawn"
+"origin" "5944 488 -312"
+"angle" "180"
+}
+{
+"classname" "trigger_push"
+"target" "target_push9"
+"model" "*5"
+}
+{
+"classname" "target_push"
+"origin" "2720 584 544"
+"targetname" "target_push9"
+}
+{
+"classname" "trigger_push"
+"target" "target_push10"
+"model" "*6"
+}
+{
+"classname" "target_push"
+"origin" "272 768 424"
+"targetname" "target_push10"
+}
+{
+"classname" "trigger_push"
+"target" "target_push11"
+"model" "*7"
+}
+{
+"classname" "target_push"
+"origin" "-344 576 120"
+"targetname" "target_push11"
+}
+{
+"classname" "weapon_bowcaster"
+"origin" "3632 -1320 -56"
+}
+{
+"classname" "info_player_start"
+"origin" "2224 -104 192"
+"angle" "180"
+}
+{
+"classname" "item_medpak_instant"
+"origin" "-272 120 -280"
+}
+{
+"classname" "weapon_rocket_launcher"
+"origin" "1408 1368 376"
+}
+{
+"classname" "ammo_metallic_bolts"
+"origin" "2216 -296 -56"
+}
+{
+"classname" "ammo_metallic_bolts"
+"origin" "3008 16 -56"
+}
+{
+"classname" "team_CTF_redflag"
+"origin" "392 104 80"
+}
+{
+"classname" "team_CTF_redspawn"
+"origin" "-64 568 96"
+"angle" "-1.40334e-014"
+}
+{
+"classname" "team_CTF_redplayer"
+"origin" "432 -464 88"
+}
+{
+"classname" "team_CTF_redplayer"
+"origin" "432 -560 88"
+}
+{
+"classname" "team_CTF_redplayer"
+"origin" "432 -608 88"
+}
+{
+"classname" "team_CTF_redplayer"
+"origin" "432 -416 88"
+}
+{
+"classname" "team_CTF_redplayer"
+"origin" "480 -512 88"
+}
+{
+"classname" "team_CTF_redspawn"
+"origin" "1640 -80 -24"
+"angle" "-3.50835e-015"
+}
+{
+"classname" "team_CTF_redspawn"
+"origin" "320 952 408"
+}
+{
+"classname" "team_CTF_redspawn"
+"origin" "704 888 408"
+}
+{
+"classname" "team_CTF_redspawn"
+"origin" "432 -512 96"
+}
+{
+"classname" "team_CTF_redspawn"
+"origin" "1320 488 -312"
+"angle" "-3.50835e-015"
+}
+{
+"classname" "target_push"
+"origin" "5672 -136 -8"
+"targetname" "target_push2"
+"angle" "-90"
+}
+{
+"classname" "trigger_push"
+"target" "target_push2"
+"model" "*8"
+}
+{
+"classname" "target_push"
+"origin" "1504 624 480"
+"targetname" "target_push5"
+}
+{
+"classname" "target_push"
+"origin" "1592 -136 -8"
+"targetname" "target_push3"
+"angle" "-90"
+}
+{
+"classname" "trigger_push"
+"target" "target_push3"
+"model" "*9"
+}
+{
+"classname" "team_CTF_bluespawn"
+"origin" "6832 -512 96"
+"angle" "180"
+}
+{
+"classname" "item_shield_sm_instant"
+"origin" "3632 1424 448"
+}
+{
+"classname" "item_shield_sm_instant"
+"origin" "3632 -440 -56"
+}
+{
+"classname" "item_jetpack"
+"origin" "-1256 -1880 392"
+}
+{
+"classname" "item_jetpack"
+"origin" "8520 -1880 392"
+}
+{
+"classname" "ammo_rockets"
+"origin" "3632 16 -56"
+}
+{
+"classname" "weapon_disruptor"
+"origin" "7104 88 -280"
+}
+{
+"classname" "weapon_trip_mine"
+"origin" "0 864 376"
+}
+{
+"classname" "weapon_disruptor"
+"origin" "160 88 -280"
+}
+{
+"classname" "weapon_rocket_launcher"
+"origin" "5856 1368 376"
+}
+{
+"classname" "weapon_trip_mine"
+"origin" "7264 864 376"
+}
+{
+"classname" "team_CTF_bluespawn"
+"origin" "6944 952 408"
+"angle" "180"
+}
+{
+"classname" "team_CTF_bluespawn"
+"origin" "6560 888 408"
+"angle" "180"
+}
+{
+"classname" "ammo_rockets"
+"origin" "2820 1076 448"
+}
+{
+"classname" "weapon_repeater"
+"origin" "1960 -888 -56"
+}
+{
+"classname" "weapon_flechette"
+"origin" "5760 320 -344"
+}
+{
+"classname" "weapon_flechette"
+"origin" "1504 320 -344"
+}
+{
+"classname" "light"
+"origin" "-728 -2432 536"
+"light" "450"
+"_color" "1 0 0"
+}
+{
+"classname" "light"
+"origin" "-472 -2432 536"
+"light" "120"
+"_color" "1 0 0"
+}
+{
+"classname" "light"
+"origin" "-232 -2544 536"
+"light" "120"
+"_color" "1 0 0"
+}
+{
+"classname" "light"
+"origin" "-16 -2712 536"
+"light" "120"
+"_color" "1 0 0"
+}
+{
+"classname" "light"
+"origin" "224 -2912 536"
+"light" "120"
+"_color" "1 0 0"
+}
+{
+"classname" "light"
+"origin" "568 -3144 536"
+"light" "120"
+"_color" "1 0 0"
+}
+{
+"classname" "light"
+"origin" "992 -3288 536"
+"light" "120"
+"_color" "1 0 0"
+}
+{
+"classname" "light"
+"origin" "7280 -2712 536"
+"light" "120"
+"_color" "0 0 1"
+}
+{
+"classname" "light"
+"origin" "7040 -2912 536"
+"light" "120"
+"_color" "0 0 1"
+}
+{
+"classname" "light"
+"origin" "6696 -3144 536"
+"light" "120"
+"_color" "0 0 1"
+}
+{
+"classname" "light"
+"origin" "6272 -3288 536"
+"light" "120"
+"_color" "0 0 1"
+}
+{
+"classname" "light"
+"origin" "7992 -2432 536"
+"light" "450"
+"_color" "0 0 1"
+}
+{
+"classname" "light"
+"origin" "7736 -2432 536"
+"light" "120"
+"_color" "0 0 1"
+}
+{
+"classname" "light"
+"origin" "7496 -2544 536"
+"light" "120"
+"_color" "0 0 1"
+}
+{
+"classname" "func_door"
+"spawnflags" "8"
+"targetname" "narlol"
+"model" "*10"
+}
+{
+"classname" "func_door"
+"spawnflags" "8"
+"targetname" "narlol2"
+"model" "*11"
+}
+{
+"classname" "ammo_powercell"
+"origin" "-88 272 -280"
+}
+{
+"classname" "ammo_metallic_bolts"
+"origin" "1504 -216 -344"
+}
+{
+"classname" "weapon_thermal"
+"origin" "1892 -172 -344"
+}
+{
+"classname" "ammo_rockets"
+"origin" "3632 -800 -376"
+}
+{
+"classname" "weapon_thermal"
+"origin" "5372 -172 -344"
+}
+{
+"classname" "ammo_metallic_bolts"
+"origin" "5760 -216 -344"
+}
+{
+"classname" "ammo_powercell"
+"origin" "7352 272 -280"
+}
+{
+"classname" "ammo_rockets"
+"origin" "7360 640 64"
+}
+{
+"classname" "weapon_flechette"
+"origin" "32 -512 64"
+}
+{
+"classname" "weapon_flechette"
+"origin" "7232 -512 64"
+}
+{
+"classname" "misc_model_static"
+"origin" "-1704 -1748 436"
+"model" "models/map_objects/bounty/sconce.md3"
+"angle" "0"
+}
+{
+"classname" "misc_model_static"
+"origin" "-1704 -1812 436"
+"model" "models/map_objects/bounty/sconce.md3"
+"angle" "0"
+}
+{
+"classname" "misc_model_static"
+"origin" "-1704 -1976 436"
+"model" "models/map_objects/bounty/sconce.md3"
+"angle" "0"
+}
+{
+"classname" "misc_model_static"
+"origin" "-1704 -2040 436"
+"model" "models/map_objects/bounty/sconce.md3"
+"angle" "0"
+}
+{
+"classname" "misc_model_static"
+"origin" "-1592 -2432 392"
+"model" "models/map_objects/factory/bomb_new.md3"
+}
+{
+"classname" "misc_model_static"
+"origin" "-1672 -2432 392"
+"model" "models/map_objects/factory/bomb_new.md3"
+}
+{
+"classname" "misc_model_static"
+"origin" "-1656 -2496 392"
+"model" "models/map_objects/factory/bomb_new.md3"
+}
+{
+"classname" "misc_model_static"
+"origin" "-1576 -2496 392"
+"model" "models/map_objects/factory/bomb_new.md3"
+}
+{
+"classname" "misc_model_static"
+"origin" "-1456 -2480 392"
+"model" "models/map_objects/bounty/cache.md3"
+}
+{
+"classname" "misc_model_static"
+"origin" "-1328 -2480 392"
+"model" "models/map_objects/bounty/cache.md3"
+}
+{
+"classname" "misc_model_static"
+"origin" "-1328 -2360 392"
+"model" "models/map_objects/bounty/cache.md3"
+}
+{
+"classname" "misc_model_static"
+"origin" "8968 -2040 436"
+"model" "models/map_objects/bounty/sconce.md3"
+"angle" "-180"
+}
+{
+"classname" "misc_model_static"
+"origin" "8968 -1812 436"
+"model" "models/map_objects/bounty/sconce.md3"
+"angle" "-180"
+}
+{
+"classname" "misc_model_static"
+"origin" "8968 -1976 436"
+"model" "models/map_objects/bounty/sconce.md3"
+"angle" "-180"
+}
+{
+"classname" "misc_model_static"
+"origin" "8968 -1748 436"
+"model" "models/map_objects/bounty/sconce.md3"
+"angle" "-180"
+}
+{
+"classname" "misc_model_static"
+"origin" "8936 -2432 392"
+"model" "models/map_objects/factory/bomb_new.md3"
+}
+{
+"classname" "misc_model_static"
+"origin" "8920 -2496 392"
+"model" "models/map_objects/factory/bomb_new.md3"
+}
+{
+"classname" "misc_model_static"
+"origin" "8840 -2496 392"
+"model" "models/map_objects/factory/bomb_new.md3"
+}
+{
+"classname" "misc_model_static"
+"origin" "8592 -2480 392"
+"model" "models/map_objects/bounty/cache.md3"
+}
+{
+"classname" "misc_model_static"
+"origin" "8720 -2480 392"
+"model" "models/map_objects/bounty/cache.md3"
+}
+{
+"classname" "misc_model_static"
+"origin" "8856 -2432 392"
+"model" "models/map_objects/factory/bomb_new.md3"
+}
+{
+"classname" "misc_model_static"
+"origin" "8592 -2360 392"
+"model" "models/map_objects/bounty/cache.md3"
+}
+{
+"classname" "trigger_push"
+"target" "target_push8"
+"model" "*12"
+}
+{
+"classname" "trigger_push"
+"target" "target_push5"
+"model" "*13"
+}
+{
+"classname" "team_CTF_bluespawn"
+"origin" "5664 -696 -24"
+"angle" "135"
+}
+{
+"classname" "weapon_repeater"
+"origin" "5304 -888 -56"
+}
+{
+"classname" "team_CTF_redspawn"
+"origin" "1600 -696 -24"
+"angle" "45"
+}
+{
+"classname" "ammo_metallic_bolts"
+"origin" "640 640 64"
+}
+{
+"classname" "ammo_rockets"
+"origin" "-96 640 64"
+}
+// entity 130
+{
+"classname" "info_b_e_location"
+"origin" "7232 -512 104"
+"message" "Flagstand"
+"teamowner" "2"
+"min_z" "-66"
+}
+{
+"classname" "info_b_e_location"
+"origin" "6872 104 104"
+"message" "Flagstand"
+"teamowner" "2"
+"min_z" "-66"
+}
+{
+"classname" "info_b_e_location"
+"origin" "7536 120 -256"
+"message" "Health"
+"teamowner" "2"
+"max_z" "-66"
+}
+{
+"classname" "info_b_e_location"
+"origin" "7104 88 -256"
+"message" "Disruptor"
+"teamowner" "2"
+"max_z" "-66"
+}
+{
+"classname" "info_b_e_location"
+"origin" "6992 768 104"
+"message" "Flagstand"
+"teamowner" "2"
+"min_z" "-66"
+}
+{
+"classname" "info_b_e_location"
+"origin" "6992 768 400"
+"message" "Mines"
+"teamowner" "2"
+"min_z" "363"
+}
+{
+"classname" "info_b_e_location"
+"origin" "7264 864 400"
+"message" "Mines"
+"teamowner" "2"
+"min_z" "363"
+}
+{
+"classname" "info_b_e_location"
+"origin" "5856 1368 400"
+"message" "Rockets"
+"teamowner" "2"
+"min_z" "363"
+}
+{
+"classname" "info_b_e_location"
+"origin" "6240 864 400"
+"message" "Rockets"
+"teamowner" "2"
+"min_z" "363"
+}
+{
+"classname" "info_b_e_location"
+"origin" "6256 864 400"
+"message" "Mines"
+"teamowner" "2"
+"min_z" "363"
+}
+{
+"classname" "info_b_e_location"
+"origin" "5156 1368 432"
+"message" "Rockets"
+"teamowner" "2"
+"min_z" "363"
+}
+{
+"classname" "info_b_e_location"
+"origin" "5140 1368 432"
+"message" "Mid Top"
+"min_z" "363"
+}
+{
+"classname" "info_b_e_location"
+"origin" "5304 -888 -32"
+"message" "Repeater"
+"teamowner" "2"
+"min_z" "-66"
+}
+{
+"classname" "info_b_e_location"
+"origin" "6224 -552 16"
+"message" "Repeater"
+"teamowner" "2"
+"min_z" "-66"
+}
+{
+"classname" "info_b_e_location"
+"origin" "6240 -552 16"
+"message" "Flagstand"
+"teamowner" "2"
+"min_z" "-66"
+}
+{
+"classname" "info_b_e_location"
+"origin" "4880 -112 -32"
+"message" "Repeater"
+"teamowner" "2"
+"min_z" "-66"
+}
+{
+"classname" "info_b_e_location"
+"origin" "5024 -1464 -32"
+"message" "Repeater"
+"teamowner" "2"
+"min_z" "-66"
+}
+{
+"classname" "info_b_e_location"
+"origin" "6560 88 -256"
+"message" "Disruptor"
+"teamowner" "2"
+"max_z" "-66"
+}
+{
+"classname" "info_b_e_location"
+"origin" "6544 88 -256"
+"message" "Bottom Golan"
+"teamowner" "2"
+"max_z" "-66"
+}
+{
+"classname" "info_b_e_location"
+"origin" "5760 320 -320"
+"message" "Bottom Golan"
+"teamowner" "2"
+"max_z" "-66"
+}
+{
+"classname" "info_b_e_location"
+"origin" "5336 144 -320"
+"message" "Bottom Golan"
+"teamowner" "2"
+"max_z" "-66"
+}
+{
+"classname" "info_b_e_location"
+"origin" "5320 128 -320"
+"message" "Thermals"
+"teamowner" "2"
+"max_z" "-66"
+"min_y" "-480"
+}
+{
+"classname" "info_b_e_location"
+"origin" "5408 80 -320"
+"message" "Bottom Golan"
+"teamowner" "2"
+"max_z" "-66"
+}
+{
+"classname" "info_b_e_location"
+"origin" "5392 64 -320"
+"message" "Thermals"
+"teamowner" "2"
+"max_z" "-66"
+"min_y" "-480"
+}
+{
+"classname" "info_b_e_location"
+"origin" "5472 24 -320"
+"message" "Bottom Golan"
+"teamowner" "2"
+"max_z" "-66"
+}
+{
+"classname" "info_b_e_location"
+"origin" "5456 8 -320"
+"message" "Thermals"
+"teamowner" "2"
+"max_z" "-66"
+"min_y" "-480"
+}
+{
+"classname" "info_b_e_location"
+"origin" "5544 -40 -320"
+"message" "Bottom Golan"
+"teamowner" "2"
+"max_z" "-66"
+}
+{
+"classname" "info_b_e_location"
+"origin" "5528 -56 -320"
+"message" "Thermals"
+"teamowner" "2"
+"max_z" "-66"
+"min_y" "-480"
+}
+{
+"classname" "info_b_e_location"
+"origin" "5616 -104 -320"
+"message" "Bottom Golan"
+"teamowner" "2"
+"max_z" "-66"
+}
+{
+"classname" "info_b_e_location"
+"origin" "5600 -120 -320"
+"message" "Thermals"
+"teamowner" "2"
+"max_z" "-66"
+"min_y" "-480"
+}
+{
+"classname" "info_b_e_location"
+"origin" "7608 576 -256"
+"message" "Health"
+"teamowner" "2"
+"max_z" "-66"
+}
+{
+"classname" "info_b_e_location"
+"origin" "5160 368 -320"
+"message" "Bottom Golan"
+"teamowner" "2"
+"max_z" "-66"
+}
+{
+"classname" "info_b_e_location"
+"origin" "5072 -280 -320"
+"message" "Thermals"
+"teamowner" "2"
+"max_z" "-66"
+"min_y" "-480"
+}
+{
+"classname" "info_b_e_location"
+"origin" "5760 624 -320"
+"message" "Bottom Golan"
+"teamowner" "2"
+"max_z" "-66"
+}
+{
+"classname" "info_b_e_location"
+"origin" "5664 688 400"
+"message" "Rockets"
+"teamowner" "2"
+"min_z" "363"
+}
+{
+"classname" "info_b_e_location"
+"origin" "5696 624 0"
+"message" "Bottom Golan"
+"teamowner" "2"
+"min_z" "-66"
+"min_y" "450"
+}
+{
+"classname" "info_b_e_location"
+"origin" "5600 112 0"
+"message" "Repeater"
+"teamowner" "2"
+"min_z" "-66"
+}
+{
+"classname" "info_b_e_location"
+"origin" "7432 592 104"
+"message" "Flagstand"
+"teamowner" "2"
+"min_z" "-66"
+}
+{
+"classname" "info_b_e_location"
+"origin" "5144 368 -320"
+"message" "Mid Bottom"
+"max_z" "-66"
+}
+{
+"classname" "info_b_e_location"
+"origin" "5056 -280 -320"
+"message" "Mid Bottom"
+"max_z" "-66"
+}
+{
+"classname" "info_b_e_location"
+"origin" "4048 -440 -320"
+"message" "Mid Bottom"
+"max_z" "-66"
+}
+{
+"classname" "info_b_e_location"
+"origin" "3280 -440 -320"
+"message" "Mid Bottom"
+"max_z" "-66"
+}
+{
+"classname" "info_b_e_location"
+"origin" "4864 -112 -32"
+"message" "Mid Armor"
+"min_z" "-66"
+}
+{
+"classname" "info_b_e_location"
+"origin" "3632 -440 -32"
+"message" "Mid Armor"
+"min_z" "-66"
+}
+{
+"classname" "info_b_e_location"
+"origin" "3632 16 -32"
+"message" "Mid Armor"
+"min_z" "-66"
+}
+{
+"classname" "info_b_e_location"
+"origin" "3632 -800 -32"
+"message" "Bowcaster"
+"min_z" "-66"
+}
+{
+"classname" "info_b_e_location"
+"origin" "3152 -692 -32"
+"message" "Mid Armor"
+"min_z" "-66"
+}
+{
+"classname" "info_b_e_location"
+"origin" "3152 -708 -32"
+"message" "Bowcaster"
+"min_z" "-66"
+}
+{
+"classname" "info_b_e_location"
+"origin" "3632 -692 -32"
+"message" "Mid Armor"
+"min_z" "-66"
+}
+{
+"classname" "info_b_e_location"
+"origin" "3632 -708 -32"
+"message" "Bowcaster"
+"min_z" "-66"
+}
+{
+"classname" "info_b_e_location"
+"origin" "4048 -692 -32"
+"message" "Mid Armor"
+"min_z" "-66"
+}
+{
+"classname" "info_b_e_location"
+"origin" "4048 -708 -32"
+"message" "Bowcaster"
+"min_z" "-66"
+}
+{
+"classname" "info_b_e_location"
+"origin" "2896 -692 -32"
+"message" "Mid Armor"
+"min_z" "-66"
+}
+{
+"classname" "info_b_e_location"
+"origin" "2896 -708 -32"
+"message" "Bowcaster"
+"min_z" "-66"
+}
+{
+"classname" "info_b_e_location"
+"origin" "4304 -692 -32"
+"message" "Mid Armor"
+"min_z" "-66"
+}
+{
+"classname" "info_b_e_location"
+"origin" "4304 -708 -32"
+"message" "Bowcaster"
+"min_z" "-66"
+}
+{
+"classname" "info_b_e_location"
+"origin" "4544 584 472"
+"message" "Mid Top"
+"min_z" "363"
+}
+{
+"classname" "info_b_e_location"
+"origin" "4384 488 472"
+"message" "Mid Top"
+"min_z" "363"
+}
+{
+"classname" "info_b_e_location"
+"origin" "4248 488 472"
+"message" "Mid Top"
+"min_z" "363"
+}
+{
+"classname" "info_b_e_location"
+"origin" "4320 488 472"
+"message" "Mid Top"
+"min_z" "363"
+}
+{
+"classname" "info_b_e_location"
+"origin" "3632 1424 472"
+"message" "Mid Top"
+"min_z" "363"
+}
+{
+"classname" "info_b_e_location"
+"origin" "4544 584 -32"
+"message" "Mid Armor"
+"min_z" "-66"
+}
+{
+"classname" "info_b_e_location"
+"origin" "3632 -1320 -32"
+"message" "Bowcaster"
+"min_z" "-66"
+}
+{
+"classname" "info_b_e_location"
+"origin" "4632 -1464 -32"
+"message" "Bowcaster"
+"min_z" "-66"
+}
+{
+"classname" "info_b_e_location"
+"origin" "4048 200 -320"
+"message" "Mid Bottom"
+"max_z" "-66"
+}
+{
+"classname" "info_b_e_location"
+"origin" "3280 200 -320"
+"message" "Mid Bottom"
+"max_z" "-66"
+}
+{
+"classname" "info_b_e_location"
+"origin" "4048 -1080 -320"
+"message" "Mid Bottom"
+"max_z" "-66"
+}
+{
+"classname" "info_b_e_location"
+"origin" "3280 -1080 -320"
+"message" "Mid Bottom"
+"max_z" "-66"
+}
+{
+"classname" "info_b_e_location"
+"origin" "6224 -312 16"
+"message" "Repeater"
+"teamowner" "2"
+"min_z" "-66"
+}
+{
+"classname" "info_b_e_location"
+"origin" "6064 -312 16"
+"message" "Repeater"
+"teamowner" "2"
+"min_z" "-66"
+}
+{
+"classname" "info_b_e_location"
+"origin" "5840 -312 16"
+"message" "Repeater"
+"teamowner" "2"
+"min_z" "-66"
+}
+{
+"classname" "info_b_e_location"
+"origin" "5696 -280 16"
+"message" "Repeater"
+"teamowner" "2"
+"min_z" "-66"
+}
+{
+"classname" "info_b_e_location"
+"origin" "5672 48 16"
+"message" "Repeater"
+"teamowner" "2"
+"min_z" "-66"
+}
+{
+"classname" "info_b_e_location"
+"origin" "5664 -64 16"
+"message" "Repeater"
+"teamowner" "2"
+"min_z" "-66"
+}
+{
+"classname" "info_b_e_location"
+"origin" "5536 176 16"
+"message" "Repeater"
+"teamowner" "2"
+"min_z" "-66"
+}
+{
+"classname" "info_b_e_location"
+"origin" "5304 -440 -32"
+"message" "Repeater"
+"teamowner" "2"
+"min_z" "-66"
+}
+{
+"classname" "info_b_e_location"
+"origin" "7328 120 -256"
+"message" "Health"
+"teamowner" "2"
+"max_z" "-66"
+}
+{
+"classname" "info_b_e_location"
+"origin" "7312 120 -256"
+"message" "Disruptor"
+"teamowner" "2"
+"max_z" "-66"
+}
+{
+"classname" "info_b_e_location"
+"origin" "7328 88 -256"
+"message" "Health"
+"teamowner" "2"
+"max_z" "-66"
+}
+{
+"classname" "info_b_e_location"
+"origin" "7312 88 -256"
+"message" "Disruptor"
+"teamowner" "2"
+"max_z" "-66"
+}
+{
+"classname" "info_b_e_location"
+"origin" "32 -512 104"
+"message" "Flagstand"
+"teamowner" "1"
+"min_z" "-66"
+}
+{
+"classname" "info_b_e_location"
+"origin" "392 104 104"
+"message" "Flagstand"
+"teamowner" "1"
+"min_z" "-66"
+}
+{
+"classname" "info_b_e_location"
+"origin" "-272 120 -256"
+"message" "Health"
+"teamowner" "1"
+"max_z" "-66"
+}
+{
+"classname" "info_b_e_location"
+"origin" "160 88 -256"
+"message" "Disruptor"
+"teamowner" "1"
+"max_z" "-66"
+}
+{
+"classname" "info_b_e_location"
+"origin" "272 768 104"
+"message" "Flagstand"
+"teamowner" "1"
+"min_z" "-66"
+}
+{
+"classname" "info_b_e_location"
+"origin" "272 768 400"
+"message" "Mines"
+"teamowner" "1"
+"min_z" "363"
+}
+{
+"classname" "info_b_e_location"
+"origin" "0 864 400"
+"message" "Mines"
+"teamowner" "1"
+"min_z" "363"
+}
+{
+"classname" "info_b_e_location"
+"origin" "1408 1368 400"
+"message" "Rockets"
+"teamowner" "1"
+"min_z" "363"
+}
+{
+"classname" "info_b_e_location"
+"origin" "1024 864 400"
+"message" "Rockets"
+"teamowner" "1"
+"min_z" "363"
+}
+{
+"classname" "info_b_e_location"
+"origin" "1008 864 400"
+"message" "Mines"
+"teamowner" "1"
+"min_z" "363"
+}
+{
+"classname" "info_b_e_location"
+"origin" "2108 1368 432"
+"message" "Rockets"
+"teamowner" "1"
+"min_z" "363"
+}
+{
+"classname" "info_b_e_location"
+"origin" "2124 1368 432"
+"message" "Mid Top"
+"min_z" "363"
+}
+{
+"classname" "info_b_e_location"
+"origin" "1960 -888 -32"
+"message" "Repeater"
+"teamowner" "1"
+"min_z" "-66"
+}
+{
+"classname" "info_b_e_location"
+"origin" "1040 -552 16"
+"message" "Repeater"
+"teamowner" "1"
+"min_z" "-66"
+}
+{
+"classname" "info_b_e_location"
+"origin" "1024 -552 16"
+"message" "Flagstand"
+"teamowner" "1"
+"min_z" "-66"
+}
+{
+"classname" "info_b_e_location"
+"origin" "2384 -112 -32"
+"message" "Repeater"
+"teamowner" "1"
+"min_z" "-66"
+}
+{
+"classname" "info_b_e_location"
+"origin" "2240 -1464 -32"
+"message" "Repeater"
+"teamowner" "1"
+"min_z" "-66"
+}
+{
+"classname" "info_b_e_location"
+"origin" "704 88 -256"
+"message" "Disruptor"
+"teamowner" "1"
+"max_z" "-66"
+}
+{
+"classname" "info_b_e_location"
+"origin" "720 88 -256"
+"message" "Bottom Golan"
+"teamowner" "1"
+"max_z" "-66"
+}
+{
+"classname" "info_b_e_location"
+"origin" "1504 320 -320"
+"message" "Bottom Golan"
+"teamowner" "1"
+"max_z" "-66"
+}
+{
+"classname" "info_b_e_location"
+"origin" "1928 144 -320"
+"message" "Bottom Golan"
+"teamowner" "1"
+"max_z" "-66"
+}
+{
+"classname" "info_b_e_location"
+"origin" "1944 128 -320"
+"message" "Thermals"
+"teamowner" "1"
+"max_z" "-66"
+"min_y" "-480"
+}
+{
+"classname" "info_b_e_location"
+"origin" "1856 80 -320"
+"message" "Bottom Golan"
+"teamowner" "1"
+"max_z" "-66"
+}
+{
+"classname" "info_b_e_location"
+"origin" "1872 64 -320"
+"message" "Thermals"
+"teamowner" "1"
+"max_z" "-66"
+"min_y" "-480"
+}
+{
+"classname" "info_b_e_location"
+"origin" "1792 24 -320"
+"message" "Bottom Golan"
+"teamowner" "1"
+"max_z" "-66"
+}
+{
+"classname" "info_b_e_location"
+"origin" "1808 8 -320"
+"message" "Thermals"
+"teamowner" "1"
+"max_z" "-66"
+"min_y" "-480"
+}
+{
+"classname" "info_b_e_location"
+"origin" "1720 -40 -320"
+"message" "Bottom Golan"
+"teamowner" "1"
+"max_z" "-66"
+}
+{
+"classname" "info_b_e_location"
+"origin" "1736 -56 -320"
+"message" "Thermals"
+"teamowner" "1"
+"max_z" "-66"
+"min_y" "-480"
+}
+{
+"classname" "info_b_e_location"
+"origin" "1648 -104 -320"
+"message" "Bottom Golan"
+"teamowner" "1"
+"max_z" "-66"
+}
+{
+"classname" "info_b_e_location"
+"origin" "1664 -120 -320"
+"message" "Thermals"
+"teamowner" "1"
+"max_z" "-66"
+"min_y" "-480"
+}
+{
+"classname" "info_b_e_location"
+"origin" "-344 576 -256"
+"message" "Health"
+"teamowner" "1"
+"max_z" "-66"
+}
+{
+"classname" "info_b_e_location"
+"origin" "2104 368 -320"
+"message" "Bottom Golan"
+"teamowner" "1"
+"max_z" "-66"
+}
+{
+"classname" "info_b_e_location"
+"origin" "2192 -280 -320"
+"message" "Thermals"
+"teamowner" "1"
+"max_z" "-66"
+"min_y" "-480"
+}
+{
+"classname" "info_b_e_location"
+"origin" "1504 624 -320"
+"message" "Bottom Golan"
+"teamowner" "1"
+"max_z" "-66"
+}
+{
+"classname" "info_b_e_location"
+"origin" "1600 688 400"
+"message" "Rockets"
+"teamowner" "1"
+"min_z" "363"
+}
+{
+"classname" "info_b_e_location"
+"origin" "1568 624 0"
+"message" "Bottom Golan"
+"teamowner" "1"
+"min_z" "-66"
+"min_y" "450"
+}
+{
+"classname" "info_b_e_location"
+"origin" "1664 112 0"
+"message" "Repeater"
+"teamowner" "1"
+"min_z" "-66"
+}
+{
+"classname" "info_b_e_location"
+"origin" "-168 592 104"
+"message" "Flagstand"
+"teamowner" "1"
+"min_z" "-66"
+}
+{
+"classname" "info_b_e_location"
+"origin" "2120 368 -320"
+"message" "Mid Bottom"
+"max_z" "-66"
+}
+{
+"classname" "info_b_e_location"
+"origin" "2208 -280 -320"
+"message" "Mid Bottom"
+"max_z" "-66"
+}
+{
+"classname" "info_b_e_location"
+"origin" "3216 -440 -320"
+"message" "Mid Bottom"
+"max_z" "-66"
+}
+{
+"classname" "info_b_e_location"
+"origin" "2400 -112 -32"
+"message" "Mid Armor"
+"min_z" "-66"
+}
+{
+"classname" "info_b_e_location"
+"origin" "2720 584 472"
+"message" "Mid Top"
+"min_z" "363"
+}
+{
+"classname" "info_b_e_location"
+"origin" "2880 488 472"
+"message" "Mid Top"
+"min_z" "363"
+}
+{
+"classname" "info_b_e_location"
+"origin" "3016 488 472"
+"message" "Mid Top"
+"min_z" "363"
+}
+{
+"classname" "info_b_e_location"
+"origin" "2944 488 472"
+"message" "Mid Top"
+"min_z" "363"
+}
+{
+"classname" "info_b_e_location"
+"origin" "2720 584 -32"
+"message" "Mid Armor"
+"min_z" "-66"
+}
+{
+"classname" "info_b_e_location"
+"origin" "2632 -1464 -32"
+"message" "Bowcaster"
+"min_z" "-66"
+}
+{
+"classname" "info_b_e_location"
+"origin" "3216 200 -320"
+"message" "Mid Bottom"
+"max_z" "-66"
+}
+{
+"classname" "info_b_e_location"
+"origin" "3216 -1080 -320"
+"message" "Mid Bottom"
+"max_z" "-66"
+}
+{
+"classname" "info_b_e_location"
+"origin" "1040 -312 16"
+"message" "Repeater"
+"teamowner" "1"
+"min_z" "-66"
+}
+{
+"classname" "info_b_e_location"
+"origin" "1200 -312 16"
+"message" "Repeater"
+"teamowner" "1"
+"min_z" "-66"
+}
+{
+"classname" "info_b_e_location"
+"origin" "1424 -312 16"
+"message" "Repeater"
+"teamowner" "1"
+"min_z" "-66"
+}
+{
+"classname" "info_b_e_location"
+"origin" "1568 -280 16"
+"message" "Repeater"
+"teamowner" "1"
+"min_z" "-66"
+}
+{
+"classname" "info_b_e_location"
+"origin" "1592 48 16"
+"message" "Repeater"
+"teamowner" "1"
+"min_z" "-66"
+}
+{
+"classname" "info_b_e_location"
+"origin" "1600 -64 16"
+"message" "Repeater"
+"teamowner" "1"
+"min_z" "-66"
+}
+{
+"classname" "info_b_e_location"
+"origin" "1728 176 16"
+"message" "Repeater"
+"teamowner" "1"
+"min_z" "-66"
+}
+{
+"classname" "info_b_e_location"
+"origin" "1960 -440 -32"
+"message" "Repeater"
+"teamowner" "1"
+"min_z" "-66"
+}
+{
+"classname" "info_b_e_location"
+"origin" "-64 120 -256"
+"message" "Health"
+"teamowner" "1"
+"max_z" "-66"
+}
+{
+"classname" "info_b_e_location"
+"origin" "-48 120 -256"
+"message" "Disruptor"
+"teamowner" "1"
+"max_z" "-66"
+}
+{
+"classname" "info_b_e_location"
+"origin" "-64 88 -256"
+"message" "Health"
+"teamowner" "1"
+"max_z" "-66"
+}
+{
+"classname" "info_b_e_location"
+"origin" "-48 88 -256"
+"message" "Disruptor"
+"teamowner" "1"
+"max_z" "-66"
+}
+{
+"classname" "info_b_e_location"
+"origin" "4184 -1152 -32"
+"message" "Bowcaster"
+"min_z" "-66"
+}
+{
+"classname" "info_b_e_location"
+"origin" "3080 -1152 -32"
+"message" "Bowcaster"
+"min_z" "-66"
+}
+{
+"classname" "info_b_e_location"
+"origin" "6240 -312 16"
+"message" "Flagstand"
+"teamowner" "2"
+"min_z" "-66"
+}
+{
+"classname" "info_b_e_location"
+"origin" "1024 -312 16"
+"message" "Flagstand"
+"teamowner" "1"
+"min_z" "-66"
+}
+{
+"classname" "info_b_e_location"
+"origin" "7392 -312 -328"
+"message" "Pit"
+"max_z" "-300"
+"min_x" "6940"
+}
+{
+"classname" "info_b_e_location"
+"origin" "7560 -312 -328"
+"message" "Pit"
+"max_z" "-300"
+"min_x" "6940"
+}
+{
+"classname" "info_b_e_location"
+"origin" "7816 -112 -328"
+"message" "Pit"
+"max_z" "-300"
+"min_x" "6940"
+}
+{
+"classname" "info_b_e_location"
+"origin" "7920 192 -328"
+"message" "Pit"
+"max_z" "-300"
+"min_x" "6940"
+}
+{
+"classname" "info_b_e_location"
+"origin" "7920 488 -328"
+"message" "Pit"
+"max_z" "-300"
+"min_x" "6940"
+}
+{
+"classname" "info_b_e_location"
+"origin" "7696 672 -328"
+"message" "Pit"
+"max_z" "-300"
+"min_x" "6940"
+}
+{
+"classname" "info_b_e_location"
+"origin" "7520 672 -328"
+"message" "Pit"
+"max_z" "-300"
+"min_x" "6940"
+}
+{
+"classname" "info_b_e_location"
+"origin" "7328 488 -328"
+"message" "Pit"
+"max_z" "-300"
+"min_x" "6940"
+}
+{
+"classname" "info_b_e_location"
+"origin" "6952 488 -328"
+"message" "Pit"
+"max_z" "-300"
+"min_x" "6940"
+}
+{
+"classname" "info_b_e_location"
+"origin" "6952 -312 -328"
+"message" "Pit"
+"max_z" "-300"
+"min_x" "6940"
+}
+{
+"classname" "info_b_e_location"
+"origin" "6936 88 -256"
+"message" "Disruptor"
+"teamowner" "2"
+"max_z" "-66"
+}
+{
+"classname" "info_b_e_location"
+"origin" "6936 -40 -256"
+"message" "Disruptor"
+"teamowner" "2"
+"max_z" "-66"
+}
+{
+"classname" "info_b_e_location"
+"origin" "6936 224 -256"
+"message" "Disruptor"
+"teamowner" "2"
+"max_z" "-66"
+}
+{
+"classname" "info_b_e_location"
+"origin" "328 88 -256"
+"message" "Disruptor"
+"teamowner" "1"
+"max_z" "-66"
+}
+{
+"classname" "info_b_e_location"
+"origin" "328 -48 -256"
+"message" "Disruptor"
+"teamowner" "1"
+"max_z" "-66"
+}
+{
+"classname" "info_b_e_location"
+"origin" "328 224 -256"
+"message" "Disruptor"
+"teamowner" "1"
+"max_z" "-66"
+}
+{
+"classname" "info_b_e_location"
+"origin" "-128 -312 -328"
+"message" "Pit"
+"max_z" "-300"
+"max_x" "300"
+}
+{
+"classname" "info_b_e_location"
+"origin" "-296 -312 -328"
+"message" "Pit"
+"max_z" "-300"
+"max_x" "300"
+}
+{
+"classname" "info_b_e_location"
+"origin" "-552 -112 -328"
+"message" "Pit"
+"max_z" "-300"
+"max_x" "300"
+}
+{
+"classname" "info_b_e_location"
+"origin" "-656 192 -328"
+"message" "Pit"
+"max_z" "-300"
+"max_x" "300"
+}
+{
+"classname" "info_b_e_location"
+"origin" "-656 488 -328"
+"message" "Pit"
+"max_z" "-300"
+"max_x" "300"
+}
+{
+"classname" "info_b_e_location"
+"origin" "-432 672 -328"
+"message" "Pit"
+"max_z" "-300"
+"max_x" "300"
+}
+{
+"classname" "info_b_e_location"
+"origin" "-256 672 -328"
+"message" "Pit"
+"max_z" "-300"
+"max_x" "300"
+}
+{
+"classname" "info_b_e_location"
+"origin" "-64 488 -328"
+"message" "Pit"
+"max_z" "-300"
+"max_x" "300"
+}
+{
+"classname" "info_b_e_location"
+"origin" "312 488 -328"
+"message" "Pit"
+"max_z" "-300"
+"max_x" "300"
+}
+{
+"classname" "info_b_e_location"
+"origin" "312 -312 -328"
+"message" "Pit"
+"max_z" "-300"
+"max_x" "300"
+}
+{
+"classname" "info_b_e_location"
+"origin" "5160 512 -392"
+"message" "Pit"
+"max_z" "-390"
+"min_x" "5140"
+}
+{
+"classname" "info_b_e_location"
+"origin" "5360 688 -392"
+"message" "Pit"
+"max_z" "-390"
+"min_x" "5140"
+}
+{
+"classname" "info_b_e_location"
+"origin" "5648 688 -392"
+"message" "Pit"
+"max_z" "-390"
+"min_x" "5140"
+}
+{
+"classname" "info_b_e_location"
+"origin" "5872 688 -392"
+"message" "Pit"
+"max_z" "-390"
+"min_x" "5140"
+}
+{
+"classname" "info_b_e_location"
+"origin" "6088 488 -392"
+"message" "Pit"
+"max_z" "-390"
+"min_x" "5140"
+}
+{
+"classname" "info_b_e_location"
+"origin" "6088 240 -392"
+"message" "Pit"
+"max_z" "-390"
+"min_x" "5140"
+}
+{
+"classname" "info_b_e_location"
+"origin" "6088 -64 -392"
+"message" "Pit"
+"max_z" "-390"
+"min_x" "5140"
+}
+{
+"classname" "info_b_e_location"
+"origin" "2104 512 -392"
+"message" "Pit"
+"max_z" "-390"
+"max_x" "2110"
+}
+{
+"classname" "info_b_e_location"
+"origin" "1904 688 -392"
+"message" "Pit"
+"max_z" "-390"
+"max_x" "2110"
+}
+{
+"classname" "info_b_e_location"
+"origin" "1616 688 -392"
+"message" "Pit"
+"max_z" "-390"
+"max_x" "2110"
+}
+{
+"classname" "info_b_e_location"
+"origin" "1392 688 -392"
+"message" "Pit"
+"max_z" "-390"
+"max_x" "2110"
+}
+{
+"classname" "info_b_e_location"
+"origin" "1176 488 -392"
+"message" "Pit"
+"max_z" "-390"
+"max_x" "2110"
+}
+{
+"classname" "info_b_e_location"
+"origin" "1176 240 -392"
+"message" "Pit"
+"max_z" "-390"
+"max_x" "2110"
+}
+{
+"classname" "info_b_e_location"
+"origin" "1176 -64 -392"
+"message" "Pit"
+"max_z" "-390"
+"max_x" "2110"
+}
+{
+"classname" "info_b_e_location"
+"origin" "5288 -1576 -32"
+"message" "Repeater"
+"teamowner" "2"
+"min_z" "-66"
+}
+{
+"classname" "info_b_e_location"
+"origin" "5600 -1264 -32"
+"message" "Repeater"
+"teamowner" "2"
+"min_z" "-66"
+}
+{
+"classname" "info_b_e_location"
+"origin" "1976 -1576 -32"
+"message" "Repeater"
+"teamowner" "1"
+"min_z" "-66"
+}
+{
+"classname" "info_b_e_location"
+"origin" "1664 -1264 -32"
+"message" "Repeater"
+"teamowner" "1"
+"min_z" "-66"
+}
+{
+"classname" "info_b_e_location"
+"origin" "1976 -1576 -160"
+"message" "Pit"
+"max_z" "-100"
+}
+{
+"classname" "info_b_e_location"
+"origin" "1664 -1264 -160"
+"message" "Pit"
+"max_z" "-100"
+}
+{
+"classname" "info_b_e_location"
+"origin" "5600 -1264 -160"
+"message" "Pit"
+"max_z" "-100"
+}
+{
+"classname" "info_b_e_location"
+"origin" "5288 -1576 -160"
+"message" "Pit"
+"max_z" "-100"
+}
+{
+"classname" "info_b_e_location"
+"origin" "4776 -1576 -160"
+"message" "Pit"
+"max_z" "-100"
+}
+{
+"classname" "info_b_e_location"
+"origin" "4264 -1576 -160"
+"message" "Pit"
+"max_z" "-100"
+}
+{
+"classname" "info_b_e_location"
+"origin" "3752 -1576 -160"
+"message" "Pit"
+"max_z" "-100"
+}
+{
+"classname" "info_b_e_location"
+"origin" "2488 -1576 -160"
+"message" "Pit"
+"max_z" "-100"
+}
+{
+"classname" "info_b_e_location"
+"origin" "3000 -1576 -160"
+"message" "Pit"
+"max_z" "-100"
+}
+{
+"classname" "info_b_e_location"
+"origin" "3512 -1576 -160"
+"message" "Pit"
+"max_z" "-100"
+}
+{
+"classname" "info_b_e_location"
+"origin" "7264 1120 336"
+"message" "Pit"
+"min_y" "1040"
+"max_z" "363"
+}
+{
+"classname" "info_b_e_location"
+"origin" "6256 1120 336"
+"message" "Pit"
+"min_y" "1040"
+"max_z" "363"
+}
+{
+"classname" "info_b_e_location"
+"origin" "0 1120 336"
+"message" "Pit"
+"max_z" "363"
+"min_y" "1040"
+}
+{
+"classname" "info_b_e_location"
+"origin" "1008 1120 336"
+"message" "Pit"
+"max_z" "363"
+"min_y" "1040"
+}
