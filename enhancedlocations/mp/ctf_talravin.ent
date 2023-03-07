@@ -4,7 +4,7 @@
 "_lightmapscale" "2"
 "music" "music/mp/mp_action1.mp3"
 "locationsonly" "1"
-"pitheight" "-1214"
+"pitheight" "-420"
 "locationaccuracy" "25"
 "_q3map2_cmdline" "-bsp -meta"
 "_q3map2_version" "2.5.17n-git-e71fb2f"
