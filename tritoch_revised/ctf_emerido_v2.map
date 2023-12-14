@@ -8394,7 +8394,7 @@
 // entity 58
 {
 "classname" "team_CTF_bluespawn"
-"angle" "270"
+"angle" "180"
 "origin" "320 256 168"
 }
 // entity 59
@@ -8412,13 +8412,13 @@
 // entity 61
 {
 "classname" "team_CTF_bluespawn"
-"angle" "315"
+"angle" "180"
 "origin" "-320 640 552"
 }
 // entity 62
 {
 "classname" "team_CTF_bluespawn"
-"angle" "45"
+"angle" "90"
 "origin" "-1104 -704 -72"
 }
 // entity 63
@@ -8496,7 +8496,7 @@
 // entity 75
 {
 "classname" "team_CTF_redspawn"
-"angle" "90"
+"angle" "0"
 "origin" "-3136 2304 168"
 }
 // entity 76
@@ -8513,13 +8513,13 @@
 // entity 78
 {
 "classname" "team_CTF_redspawn"
-"angle" "225"
+"angle" "270"
 "origin" "-1712 3264 -72"
 }
 // entity 79
 {
 "classname" "team_CTF_redspawn"
-"angle" "135"
+"angle" "0"
 "origin" "-2496 1920 552"
 }
 // entity 80
@@ -8579,7 +8579,7 @@
 // entity 89
 {
 "classname" "info_player_start_blue"
-"angle" "225"
+"angle" "180"
 "origin" "512 0 168"
 }
 // entity 90
@@ -8602,7 +8602,7 @@
 // entity 93
 {
 "classname" "info_player_start_red"
-"angle" "45"
+"angle" "0"
 "origin" "-3328 2560 168"
 }
 // entity 94

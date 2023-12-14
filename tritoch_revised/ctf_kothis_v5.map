@@ -10323,7 +10323,7 @@ byss/old_isd_basepanel2
 // entity 56
 {
 "classname" "team_CTF_bluespawn"
-"angle" "135"
+"angle" "60"
 "origin" "592 -848 -536"
 }
 // entity 57
@@ -10401,7 +10401,7 @@ byss/old_isd_basepanel2
 // entity 69
 {
 "classname" "team_CTF_redspawn"
-"angle" "315"
+"angle" "-115"
 "origin" "1968 -112 -536"
 }
 // entity 70
