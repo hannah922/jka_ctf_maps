@@ -953,7 +953,6 @@
 "origin" "-1592 3448 296"
 "message" "Mid"
 "angle" "-90"
-"teamowner" "2"
 }
 {
 "classname" "info_b_e_location"
@@ -989,14 +988,12 @@
 "origin" "-1592 2968 296"
 "message" "Mid"
 "angle" "-90"
-"teamowner" "2"
 }
 {
 "classname" "info_b_e_location"
 "origin" "-944 3448 296"
 "message" "Mid"
 "angle" "-90"
-"teamowner" "2"
 }
 {
 "classname" "info_b_e_location"
