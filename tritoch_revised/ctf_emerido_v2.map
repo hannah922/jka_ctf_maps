@@ -6,6 +6,8 @@
 "music" "music/mp/mp_action1.mp3"
 "_lightmapscale" "2"
 "_minlight" "75"
+"locationsonly" "1"
+"locationaccuracy" "35"
 // brush 0
 {
 ( -2688 -576 -194 ) ( -2688 -576 -1152 ) ( -2688 3136 -1152 ) mp/roofog 0 0 0 0.25 0.25 0 0 0
@@ -15016,4 +15018,733 @@
 "classname" "light"
 "origin" "-1536 2432 64"
 "light" "100"
+}
+// entity 1073
+{
+"classname" "info_b_e_location"
+"origin" "-3264 4032 176"
+"message" "Flagstand"
+"teamowner" "1"
+"min_z" "120"
+}
+// entity 1074
+{
+"classname" "info_b_e_location"
+"origin" "-2560 4384 176"
+"message" "Disruptor"
+"teamowner" "1"
+}
+// entity 1075
+{
+"classname" "info_b_e_location"
+"origin" "-2496 3328 -32"
+"message" "Repeater"
+"teamowner" "1"
+"max_z" "120"
+}
+// entity 1076
+{
+"classname" "info_b_e_location"
+"origin" "-3264 3328 -32"
+"message" "Mines"
+"teamowner" "1"
+"max_z" "120"
+}
+// entity 1077
+{
+"classname" "info_b_e_location"
+"origin" "-3648 3328 -32"
+"message" "Mines"
+"teamowner" "1"
+"max_z" "120"
+}
+// entity 1078
+{
+"classname" "info_b_e_location"
+"origin" "-2880 2880 176"
+"message" "Golan"
+"teamowner" "1"
+"max_z" "505"
+"min_z" "120"
+}
+// entity 1079
+{
+"classname" "info_b_e_location"
+"origin" "-3064 2632 176"
+"message" "Golan"
+"teamowner" "1"
+"max_z" "505"
+"min_z" "120"
+}
+// entity 1080
+{
+"classname" "info_b_e_location"
+"origin" "-2608 2432 240"
+"message" "Golan"
+"teamowner" "1"
+"max_z" "505"
+"min_z" "120"
+}
+// entity 1081
+{
+"classname" "info_b_e_location"
+"origin" "-3352 2352 176"
+"message" "Golan"
+"teamowner" "1"
+"max_z" "505"
+"min_z" "120"
+}
+// entity 1082
+{
+"classname" "info_b_e_location"
+"origin" "-2432 3328 560"
+"message" "Health"
+"teamowner" "1"
+"min_z" "505"
+}
+// entity 1083
+{
+"classname" "info_b_e_location"
+"origin" "-2976 3008 560"
+"message" "Health"
+"teamowner" "1"
+"min_z" "505"
+}
+// entity 1084
+{
+"classname" "info_b_e_location"
+"origin" "-3040 3008 560"
+"message" "Rockets"
+"teamowner" "1"
+"min_z" "505"
+}
+// entity 1085
+{
+"classname" "info_b_e_location"
+"origin" "-2464 2624 560"
+"message" "Health"
+"teamowner" "1"
+"min_z" "505"
+}
+// entity 1086
+{
+"classname" "info_b_e_location"
+"origin" "-2464 2592 560"
+"message" "Rockets"
+"teamowner" "1"
+"min_z" "505"
+}
+// entity 1087
+{
+"classname" "info_b_e_location"
+"origin" "-3520 2176 560"
+"message" "Rockets"
+"teamowner" "1"
+"min_z" "505"
+}
+// entity 1088
+{
+"classname" "info_b_e_location"
+"origin" "-2944 2080 560"
+"message" "Rockets"
+"teamowner" "1"
+"min_z" "505"
+}
+// entity 1089
+{
+"classname" "info_b_e_location"
+"origin" "-3616 2656 560"
+"message" "Rockets"
+"teamowner" "1"
+"min_z" "505"
+}
+// entity 1090
+{
+"classname" "info_b_e_location"
+"origin" "-3648 3008 560"
+"message" "Rockets"
+"teamowner" "1"
+"min_z" "505"
+}
+// entity 1091
+{
+"classname" "info_b_e_location"
+"origin" "-3648 3328 560"
+"message" "Rockets"
+"teamowner" "1"
+"min_z" "505"
+}
+// entity 1092
+{
+"classname" "info_b_e_location"
+"origin" "-1856 3328 -32"
+"message" "Repeater"
+"teamowner" "1"
+"max_z" "505"
+}
+// entity 1093
+{
+"classname" "info_b_e_location"
+"origin" "-1856 3328 560"
+"message" "Health"
+"teamowner" "1"
+"min_z" "505"
+}
+// entity 1094
+{
+"classname" "info_b_e_location"
+"origin" "-1408 2432 72"
+"message" "Armor"
+"teamowner" "1"
+}
+// entity 1095
+{
+"classname" "info_b_e_location"
+"origin" "-1024 1664 72"
+"message" "Armor"
+"teamowner" "1"
+"max_z" "281"
+}
+// entity 1096
+{
+"classname" "info_b_e_location"
+"origin" "-2296 1880 560"
+"message" "Rockets"
+"teamowner" "1"
+"min_z" "505"
+}
+// entity 1097
+{
+"classname" "info_b_e_location"
+"origin" "-2280 1864 560"
+"message" "Thermals"
+"max_z" "505"
+}
+// entity 1098
+{
+"classname" "info_b_e_location"
+"origin" "-2112 1280 360"
+"message" "Thermals"
+"min_z" "281"
+}
+// entity 1099
+{
+"classname" "info_b_e_location"
+"origin" "-1408 1280 360"
+"message" "Thermals"
+"min_z" "281"
+}
+// entity 1100
+{
+"classname" "info_b_e_location"
+"origin" "-1408 1280 72"
+"message" "Concussion"
+"max_z" "281"
+}
+// entity 1101
+{
+"classname" "info_b_e_location"
+"origin" "-1408 1648 72"
+"message" "Concussion"
+"max_z" "281"
+}
+// entity 1102
+{
+"classname" "info_b_e_location"
+"origin" "-1408 1680 72"
+"message" "Armor"
+"teamowner" "1"
+"max_z" "281"
+}
+// entity 1103
+{
+"classname" "info_b_e_location"
+"origin" "-1944 2216 560"
+"message" "Rockets"
+"teamowner" "1"
+"min_z" "505"
+}
+// entity 1104
+{
+"classname" "info_b_e_location"
+"origin" "-3648 3328 352"
+"message" "Mines"
+"teamowner" "1"
+"max_z" "505"
+"min_z" "120"
+}
+// entity 1105
+{
+"classname" "info_b_e_location"
+"origin" "-3448 3328 352"
+"message" "Golan"
+"teamowner" "1"
+"max_z" "505"
+"min_z" "120"
+}
+// entity 1106
+{
+"classname" "info_b_e_location"
+"origin" "-3448 3344 352"
+"message" "Flagstand"
+"teamowner" "1"
+"max_z" "505"
+"min_z" "120"
+}
+// entity 1107
+{
+"classname" "info_b_e_location"
+"origin" "-3080 3328 352"
+"message" "Golan"
+"teamowner" "1"
+"max_z" "505"
+"min_z" "120"
+}
+// entity 1108
+{
+"classname" "info_b_e_location"
+"origin" "-3080 3344 352"
+"message" "Flagstand"
+"teamowner" "1"
+"max_z" "505"
+"min_z" "120"
+}
+// entity 1109
+{
+"classname" "info_b_e_location"
+"origin" "-3648 3528 352"
+"message" "Flagstand"
+"teamowner" "1"
+"max_z" "505"
+"min_z" "120"
+}
+// entity 1110
+{
+"classname" "info_b_e_location"
+"origin" "-3560 3328 352"
+"message" "Mines"
+"teamowner" "1"
+"max_z" "505"
+"min_z" "120"
+}
+// entity 1111
+{
+"classname" "info_b_e_location"
+"origin" "-3560 3344 352"
+"message" "Mines"
+"teamowner" "1"
+"max_z" "505"
+"min_z" "120"
+}
+// entity 1112
+{
+"classname" "info_b_e_location"
+"origin" "-3648 3416 352"
+"message" "Mines"
+"teamowner" "1"
+"max_z" "505"
+"min_z" "120"
+}
+// entity 1113
+{
+"classname" "info_b_e_location"
+"origin" "-3448 3528 352"
+"message" "Flagstand"
+"teamowner" "1"
+"max_z" "505"
+"min_z" "120"
+}
+// entity 1114
+{
+"classname" "info_b_e_location"
+"origin" "-3560 3416 352"
+"message" "Mines"
+"teamowner" "1"
+"max_z" "505"
+"min_z" "120"
+}
+// entity 1115
+{
+"classname" "info_b_e_location"
+"origin" "-1920 2432 200"
+"message" "Armor"
+"teamowner" "1"
+}
+// entity 1116
+{
+"classname" "info_b_e_location"
+"origin" "448 -1472 176"
+"message" "Flagstand"
+"teamowner" "2"
+"min_z" "120"
+"angle" "180"
+}
+// entity 1117
+{
+"classname" "info_b_e_location"
+"origin" "-256 -1824 176"
+"message" "Disruptor"
+"teamowner" "2"
+"angle" "180"
+}
+// entity 1118
+{
+"classname" "info_b_e_location"
+"origin" "-320 -768 -32"
+"message" "Repeater"
+"teamowner" "2"
+"max_z" "120"
+"angle" "180"
+}
+// entity 1119
+{
+"classname" "info_b_e_location"
+"origin" "448 -768 -32"
+"message" "Mines"
+"teamowner" "2"
+"max_z" "120"
+"angle" "180"
+}
+// entity 1120
+{
+"classname" "info_b_e_location"
+"origin" "832 -768 -32"
+"message" "Mines"
+"teamowner" "2"
+"max_z" "120"
+"angle" "180"
+}
+// entity 1121
+{
+"classname" "info_b_e_location"
+"origin" "64 -320 176"
+"message" "Golan"
+"teamowner" "2"
+"max_z" "505"
+"min_z" "120"
+"angle" "180"
+}
+// entity 1122
+{
+"classname" "info_b_e_location"
+"origin" "248 -72 176"
+"message" "Golan"
+"teamowner" "2"
+"max_z" "505"
+"min_z" "120"
+"angle" "180"
+}
+// entity 1123
+{
+"classname" "info_b_e_location"
+"origin" "-208 128 240"
+"message" "Golan"
+"teamowner" "2"
+"max_z" "505"
+"min_z" "120"
+"angle" "180"
+}
+// entity 1124
+{
+"classname" "info_b_e_location"
+"origin" "536 208 176"
+"message" "Golan"
+"teamowner" "2"
+"max_z" "505"
+"min_z" "120"
+"angle" "180"
+}
+// entity 1125
+{
+"classname" "info_b_e_location"
+"origin" "-384 -768 560"
+"message" "Health"
+"teamowner" "2"
+"min_z" "505"
+"angle" "180"
+}
+// entity 1126
+{
+"classname" "info_b_e_location"
+"origin" "160 -448 560"
+"message" "Health"
+"teamowner" "2"
+"min_z" "505"
+"angle" "180"
+}
+// entity 1127
+{
+"classname" "info_b_e_location"
+"origin" "224 -448 560"
+"message" "Rockets"
+"teamowner" "2"
+"min_z" "505"
+"angle" "180"
+}
+// entity 1128
+{
+"classname" "info_b_e_location"
+"origin" "-352 -64 560"
+"message" "Health"
+"teamowner" "2"
+"min_z" "505"
+"angle" "180"
+}
+// entity 1129
+{
+"classname" "info_b_e_location"
+"origin" "-352 -32 560"
+"message" "Rockets"
+"teamowner" "2"
+"min_z" "505"
+"angle" "180"
+}
+// entity 1130
+{
+"classname" "info_b_e_location"
+"origin" "704 384 560"
+"message" "Rockets"
+"teamowner" "2"
+"min_z" "505"
+"angle" "180"
+}
+// entity 1131
+{
+"classname" "info_b_e_location"
+"origin" "128 480 560"
+"message" "Rockets"
+"teamowner" "2"
+"min_z" "505"
+"angle" "180"
+}
+// entity 1132
+{
+"classname" "info_b_e_location"
+"origin" "800 -96 560"
+"message" "Rockets"
+"teamowner" "2"
+"min_z" "505"
+"angle" "180"
+}
+// entity 1133
+{
+"classname" "info_b_e_location"
+"origin" "832 -448 560"
+"message" "Rockets"
+"teamowner" "2"
+"min_z" "505"
+"angle" "180"
+}
+// entity 1134
+{
+"classname" "info_b_e_location"
+"origin" "832 -768 560"
+"message" "Rockets"
+"teamowner" "2"
+"min_z" "505"
+"angle" "180"
+}
+// entity 1135
+{
+"classname" "info_b_e_location"
+"origin" "-960 -768 -32"
+"message" "Repeater"
+"teamowner" "2"
+"max_z" "505"
+"angle" "180"
+}
+// entity 1136
+{
+"classname" "info_b_e_location"
+"origin" "-960 -768 560"
+"message" "Health"
+"teamowner" "2"
+"min_z" "505"
+"angle" "180"
+}
+// entity 1137
+{
+"classname" "info_b_e_location"
+"origin" "-1408 128 72"
+"message" "Armor"
+"teamowner" "2"
+"angle" "180"
+}
+// entity 1138
+{
+"classname" "info_b_e_location"
+"origin" "-1792 896 72"
+"message" "Armor"
+"teamowner" "2"
+"max_z" "281"
+"angle" "180"
+}
+// entity 1139
+{
+"classname" "info_b_e_location"
+"origin" "-520 680 560"
+"message" "Rockets"
+"teamowner" "2"
+"min_z" "505"
+"angle" "180"
+}
+// entity 1140
+{
+"classname" "info_b_e_location"
+"origin" "-536 696 560"
+"message" "Thermals"
+"max_z" "505"
+"angle" "180"
+}
+// entity 1141
+{
+"classname" "info_b_e_location"
+"origin" "-704 1280 360"
+"message" "Thermals"
+"min_z" "281"
+"angle" "180"
+}
+// entity 1142
+{
+"classname" "info_b_e_location"
+"origin" "-1408 912 72"
+"message" "Concussion"
+"max_z" "281"
+"angle" "180"
+}
+// entity 1143
+{
+"classname" "info_b_e_location"
+"origin" "-1408 880 72"
+"message" "Armor"
+"teamowner" "2"
+"max_z" "281"
+"angle" "180"
+}
+// entity 1144
+{
+"classname" "info_b_e_location"
+"origin" "-872 344 560"
+"message" "Rockets"
+"teamowner" "2"
+"min_z" "505"
+"angle" "180"
+}
+// entity 1145
+{
+"classname" "info_b_e_location"
+"origin" "832 -768 352"
+"message" "Mines"
+"teamowner" "2"
+"max_z" "505"
+"min_z" "120"
+"angle" "180"
+}
+// entity 1146
+{
+"classname" "info_b_e_location"
+"origin" "632 -768 352"
+"message" "Golan"
+"teamowner" "2"
+"max_z" "505"
+"min_z" "120"
+"angle" "180"
+}
+// entity 1147
+{
+"classname" "info_b_e_location"
+"origin" "632 -784 352"
+"message" "Flagstand"
+"teamowner" "2"
+"max_z" "505"
+"min_z" "120"
+"angle" "180"
+}
+// entity 1148
+{
+"classname" "info_b_e_location"
+"origin" "264 -768 352"
+"message" "Golan"
+"teamowner" "2"
+"max_z" "505"
+"min_z" "120"
+"angle" "180"
+}
+// entity 1149
+{
+"classname" "info_b_e_location"
+"origin" "264 -784 352"
+"message" "Flagstand"
+"teamowner" "2"
+"max_z" "505"
+"min_z" "120"
+"angle" "180"
+}
+// entity 1150
+{
+"classname" "info_b_e_location"
+"origin" "832 -968 352"
+"message" "Flagstand"
+"teamowner" "2"
+"max_z" "505"
+"min_z" "120"
+"angle" "180"
+}
+// entity 1151
+{
+"classname" "info_b_e_location"
+"origin" "744 -768 352"
+"message" "Mines"
+"teamowner" "2"
+"max_z" "505"
+"min_z" "120"
+"angle" "180"
+}
+// entity 1152
+{
+"classname" "info_b_e_location"
+"origin" "744 -784 352"
+"message" "Mines"
+"teamowner" "2"
+"max_z" "505"
+"min_z" "120"
+"angle" "180"
+}
+// entity 1153
+{
+"classname" "info_b_e_location"
+"origin" "832 -856 352"
+"message" "Mines"
+"teamowner" "2"
+"max_z" "505"
+"min_z" "120"
+"angle" "180"
+}
+// entity 1154
+{
+"classname" "info_b_e_location"
+"origin" "632 -968 352"
+"message" "Flagstand"
+"teamowner" "2"
+"max_z" "505"
+"min_z" "120"
+"angle" "180"
+}
+// entity 1155
+{
+"classname" "info_b_e_location"
+"origin" "744 -856 352"
+"message" "Mines"
+"teamowner" "2"
+"max_z" "505"
+"min_z" "120"
+"angle" "180"
+}
+// entity 1156
+{
+"classname" "info_b_e_location"
+"origin" "-896 128 200"
+"message" "Armor"
+"teamowner" "2"
+"angle" "180"
 }
