@@ -274,6 +274,7 @@
 "origin" "592 -848 -536"
 "spawnname" "armormid"
 "nextspawns" "golan conc flagstand"
+"initialrespawn" "1"
 }
 {
 "classname" "team_CTF_bluespawn"
@@ -351,6 +352,7 @@
 "origin" "1968 -112 -536"
 "spawnname" "armormid"
 "nextspawns" "golan conc flagstand"
+"initialrespawn" "1"
 }
 {
 "classname" "info_player_start_blue"
@@ -1193,6 +1195,7 @@
 "angle" "-30"
 "spawnname" "armorammo"
 "nextspawns" "flagstand disruptor conc"
+"initialrespawn" "1"
 }
 {
 "classname" "team_CTF_bluespawn"
@@ -1200,6 +1203,7 @@
 "angle" "-45"
 "spawnname" "thermal"
 "nextspawns" "repeater flagstand conc golan"
+"initialrespawn" "1"
 }
 {
 "classname" "team_CTF_bluespawn"
@@ -1219,6 +1223,7 @@
 "angle" "150"
 "spawnname" "armorammo"
 "nextspawns" "flagstand disruptor conc"
+"initialrespawn" "1"
 }
 {
 "classname" "team_CTF_redspawn"
@@ -1233,6 +1238,7 @@
 "angle" "135"
 "spawnname" "thermal"
 "nextspawns" "repeater flagstand conc golan"
+"initialrespawn" "1"
 }
 {
 "classname" "weapon_concussion_rifle"

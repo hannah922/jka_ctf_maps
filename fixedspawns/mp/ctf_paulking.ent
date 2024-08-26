@@ -379,6 +379,7 @@
 "classname" "team_CTF_bluespawn"
 "spawnname" "rockets"
 "nextspawns" "golanback repeater abovemines"
+"initialrespawn" "1"
 }
 {
 "angle" "135"
@@ -393,6 +394,7 @@
 "classname" "team_CTF_bluespawn"
 "spawnname" "window"
 "nextspawns" "golanback golanfront"
+"initialrespawn" "1"
 }
 {
 "angle" "90"
@@ -400,6 +402,7 @@
 "classname" "team_CTF_bluespawn"
 "spawnname" "golanfront"
 "nextspawns" "disruptor abovemines window"
+"initialrespawn" "1"
 }
 {
 "angle" "180"
@@ -456,6 +459,7 @@
 "classname" "team_CTF_redspawn"
 "spawnname" "golanfront"
 "nextspawns" "disruptor abovemines window"
+"initialrespawn" "1"
 }
 {
 "angle" "225"
@@ -491,6 +495,7 @@
 "classname" "team_CTF_redspawn"
 "spawnname" "rockets"
 "nextspawns" "golanback repeater abovemines"
+"initialrespawn" "1"
 }
 {
 "angle" "240"
@@ -498,6 +503,7 @@
 "classname" "team_CTF_redspawn"
 "spawnname" "window"
 "nextspawns" "golanback golanfront"
+"initialrespawn" "1"
 }
 {
 "angle" "90"
