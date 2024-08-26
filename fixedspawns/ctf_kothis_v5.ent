@@ -258,21 +258,29 @@
 "classname" "team_CTF_bluespawn"
 "angle" "135"
 "origin" "160 -1440 -216"
+"spawnname" "repeater"
+"nextspawns" "conc thermal flagstand"
 }
 {
 "classname" "team_CTF_bluespawn"
 "angle" "0"
 "origin" "-1120 -128 -536"
+"spawnname" "conc"
+"nextspawns" "thermal repeater armorammo disruptor"
 }
 {
 "classname" "team_CTF_bluespawn"
 "angle" "60"
 "origin" "592 -848 -536"
+"spawnname" "armormid"
+"nextspawns" "golan conc flagstand"
 }
 {
 "classname" "team_CTF_bluespawn"
 "angle" "45"
 "origin" "-1152 -896 -536"
+"spawnname" "golan"
+"nextspawns" "disruptor armorammo armormid thermal"
 }
 {
 "classname" "team_CTF_redflag"
@@ -313,26 +321,36 @@
 "classname" "team_CTF_redspawn"
 "angle" "315"
 "origin" "2384 496 104"
+"spawnname" "disruptor"
+"nextspawns" "armorammo armormid thermal conc"
 }
 {
 "classname" "team_CTF_redspawn"
 "origin" "2400 480 -216"
 "angle" "-45"
+"spawnname" "repeater"
+"nextspawns" "conc thermal flagstand"
 }
 {
 "classname" "team_CTF_redspawn"
 "angle" "225"
 "origin" "3712 -64 -536"
+"spawnname" "golan"
+"nextspawns" "disruptor armorammo armormid thermal"
 }
 {
 "classname" "team_CTF_redspawn"
 "angle" "180"
 "origin" "3680 -832 -536"
+"spawnname" "conc"
+"nextspawns" "thermal repeater armorammo disruptor"
 }
 {
 "classname" "team_CTF_redspawn"
 "angle" "-115"
 "origin" "1968 -112 -536"
+"spawnname" "armormid"
+"nextspawns" "golan conc flagstand"
 }
 {
 "classname" "info_player_start_blue"
@@ -451,6 +469,8 @@
 "classname" "team_CTF_bluespawn"
 "angle" "135"
 "origin" "176 -1456 96"
+"spawnname" "disruptor"
+"nextspawns" "armorammo armormid thermal conc"
 }
 {
 "classname" "item_shield_sm_instant"
@@ -1171,16 +1191,22 @@
 "classname" "team_CTF_bluespawn"
 "origin" "64 0 -536"
 "angle" "-30"
+"spawnname" "armorammo"
+"nextspawns" "flagstand disruptor conc"
 }
 {
 "classname" "team_CTF_bluespawn"
 "origin" "528 400 96"
 "angle" "-45"
+"spawnname" "thermal"
+"nextspawns" "repeater flagstand conc golan"
 }
 {
 "classname" "team_CTF_bluespawn"
 "origin" "-1720 -1328 104"
 "angle" "45"
+"spawnname" "flagstand"
+"nextspawns" "armorammo armormid thermal"
 }
 {
 "classname" "weapon_rocket_launcher"
@@ -1191,16 +1217,22 @@
 "classname" "team_CTF_redspawn"
 "origin" "2496 -960 -536"
 "angle" "150"
+"spawnname" "armorammo"
+"nextspawns" "flagstand disruptor conc"
 }
 {
 "classname" "team_CTF_redspawn"
 "origin" "4280 368 104"
 "angle" "-135"
+"spawnname" "flagstand"
+"nextspawns" "armorammo armormid thermal"
 }
 {
 "classname" "team_CTF_redspawn"
 "origin" "2032 -1360 96"
 "angle" "135"
+"spawnname" "thermal"
+"nextspawns" "repeater flagstand conc golan"
 }
 {
 "classname" "weapon_concussion_rifle"
