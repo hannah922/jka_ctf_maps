@@ -1,0 +1,468 @@
+{
+"classname" "worldspawn"
+"message" "Illimiran Isolation Area"
+"music" "music/mp/mp_action1.mp3"
+"_q3map2_cmdline" "-bsp -meta; -vis -saveprt; -light -fast -filter -super 2"
+"_q3map2_version" "2.5.17n-git-48a6cf3c"
+}
+{
+"classname" "team_CTF_redflag"
+"angle" "90"
+"origin" "-4496 -4744 240"
+}
+{
+"classname" "info_player_start"
+"origin" "-4304 -5072 352"
+"angle" "90"
+}
+{
+"classname" "weapon_rocket_launcher"
+"origin" "-4472 -1832 456"
+}
+{
+"classname" "weapon_repeater"
+"origin" "-3728 -4328 144"
+}
+{
+"classname" "ammo_rockets"
+"origin" "-3736 -5192 208"
+}
+{
+"classname" "ammo_powercell"
+"origin" "-4328 -5520 208"
+}
+{
+"classname" "weapon_trip_mine"
+"origin" "-3224 -5200 208"
+}
+{
+"classname" "weapon_flechette"
+"origin" "-4464 -3128 336"
+}
+{
+"classname" "ammo_metallic_bolts"
+"origin" "-3528 -2888 456"
+}
+{
+"classname" "ammo_rockets"
+"origin" "-3504 -2496 328"
+}
+{
+"classname" "func_glass"
+"health" "9000"
+"model" "*1"
+}
+{
+"classname" "ammo_metallic_bolts"
+"origin" "-4320 -3408 336"
+}
+{
+"classname" "item_shield_sm_instant"
+"origin" "-2696 -3248 48"
+}
+{
+"classname" "team_CTF_redplayer"
+"origin" "-4240 -5024 232"
+"angle" "90"
+}
+{
+"classname" "team_CTF_redplayer"
+"origin" "-4432 -5024 232"
+"angle" "90"
+}
+{
+"classname" "team_CTF_redplayer"
+"origin" "-4384 -5024 232"
+"angle" "90"
+}
+{
+"classname" "team_CTF_redplayer"
+"origin" "-4336 -5024 232"
+"angle" "90"
+}
+{
+"classname" "team_CTF_redplayer"
+"origin" "-4288 -5024 232"
+"angle" "90"
+}
+{
+"classname" "team_CTF_redspawn"
+"origin" "-3568 -4904 240"
+"angle" "90"
+}
+{
+"classname" "team_CTF_redspawn"
+"origin" "-4032 -3080 488"
+"angle" "90"
+}
+{
+"classname" "team_CTF_redspawn"
+"origin" "-4392 -5176 240"
+"angle" "90"
+}
+{
+"classname" "trigger_hurt"
+"spawnflags" "12"
+"dmg" "-1"
+"model" "*2"
+}
+{
+"classname" "weapon_thermal"
+"origin" "-2784 -3848 48"
+}
+{
+"classname" "target_push"
+"origin" "-1068 -1452 528"
+"targetname" "target_push5"
+"angle" "180"
+}
+{
+"classname" "trigger_push"
+"target" "target_push5"
+"model" "*3"
+}
+{
+"classname" "item_medpak_instant"
+"origin" "-168 -2072 336"
+"angle" "180"
+}
+{
+"classname" "weapon_rocket_launcher"
+"origin" "-8 -2760 456"
+"angle" "180"
+}
+{
+"classname" "weapon_repeater"
+"origin" "-752 -264 144"
+"angle" "180"
+}
+{
+"classname" "ammo_rockets"
+"origin" "-744 600 208"
+"angle" "180"
+}
+{
+"classname" "weapon_disruptor"
+"origin" "-3896 -5488 536"
+"angle" "-1.40334e-014"
+}
+{
+"classname" "ammo_powercell"
+"origin" "-152 928 208"
+"angle" "180"
+}
+{
+"classname" "weapon_trip_mine"
+"origin" "-1256 608 208"
+"angle" "180"
+}
+{
+"classname" "weapon_flechette"
+"origin" "-16 -1464 336"
+"angle" "180"
+}
+{
+"classname" "ammo_metallic_bolts"
+"origin" "-952 -1704 456"
+"angle" "180"
+}
+{
+"classname" "ammo_rockets"
+"origin" "-976 -2096 328"
+"angle" "180"
+}
+{
+"classname" "func_glass"
+"health" "9000"
+"model" "*4"
+}
+{
+"classname" "ammo_metallic_bolts"
+"origin" "-160 -1184 336"
+"angle" "180"
+}
+{
+"classname" "item_shield_sm_instant"
+"origin" "-1784 -1344 48"
+"angle" "180"
+}
+{
+"classname" "trigger_push"
+"target" "target_push1"
+"model" "*5"
+}
+{
+"classname" "target_push"
+"origin" "-2240 -2296 576"
+"targetname" "target_push1"
+}
+{
+"classname" "team_CTF_blueflag"
+"angle" "-90"
+"origin" "16 152 240"
+}
+{
+"classname" "team_CTF_blueplayer"
+"origin" "-240 432 232"
+"angle" "-90"
+}
+{
+"classname" "team_CTF_blueplayer"
+"origin" "-48 432 232"
+"angle" "-90"
+}
+{
+"classname" "team_CTF_blueplayer"
+"origin" "-96 432 232"
+"angle" "-90"
+}
+{
+"classname" "team_CTF_blueplayer"
+"origin" "-144 432 232"
+"angle" "-90"
+}
+{
+"classname" "team_CTF_blueplayer"
+"origin" "-192 432 232"
+"angle" "-90"
+}
+{
+"classname" "team_CTF_bluespawn"
+"origin" "-88 584 240"
+"angle" "-90"
+}
+{
+"classname" "team_CTF_bluespawn"
+"origin" "64 -2352 488"
+"angle" "180"
+"initialrespawn" "1"
+}
+{
+"classname" "team_CTF_bluespawn"
+"origin" "-448 -1512 488"
+"angle" "-90"
+}
+{
+"classname" "team_CTF_bluespawn"
+"origin" "-448 -1888 488"
+"angle" "180"
+"initialrespawn" "1"
+}
+{
+"classname" "team_CTF_redspawn"
+"origin" "-4032 -2704 488"
+"angle" "-1.40334e-014"
+"initialrespawn" "1"
+}
+{
+"classname" "weapon_disruptor"
+"origin" "-584 896 536"
+"angle" "180"
+}
+{
+"classname" "weapon_bowcaster"
+"origin" "-4016 -2192 456"
+}
+{
+"classname" "weapon_bowcaster"
+"origin" "-464 -2400 456"
+}
+{
+"classname" "team_CTF_bluespawn"
+"origin" "-912 312 240"
+"angle" "-90"
+}
+{
+"classname" "weapon_thermal"
+"origin" "-1696 -744 48"
+"angle" "180"
+}
+{
+"classname" "team_CTF_bluespawn"
+"origin" "-1536 -800 80"
+"angle" "-115"
+"initialrespawn" "1"
+}
+{
+"classname" "team_CTF_redspawn"
+"origin" "-2944 -3792 80"
+"angle" "65"
+"initialrespawn" "1"
+}
+{
+"classname" "team_CTF_redspawn"
+"origin" "-4544 -2240 488"
+"angle" "-1.40334e-014"
+"initialrespawn" "1"
+}
+{
+"classname" "item_medpak_instant"
+"origin" "-4312 -2520 336"
+}
+{
+"classname" "team_CTF_redspawn"
+"origin" "-4576 -2456 368"
+"angle" "-45"
+}
+{
+"classname" "team_CTF_bluespawn"
+"origin" "96 -2136 368"
+"angle" "135"
+}
+{
+"classname" "target_push"
+"origin" "-3412 -3140 528"
+"targetname" "target_push3"
+}
+{
+"classname" "trigger_push"
+"target" "target_push3"
+"model" "*6"
+}
+{
+"classname" "func_usable"
+"spawnflags" "8"
+"model" "*7"
+}
+{
+"classname" "misc_model_static"
+"origin" "-4136 -4264 -448"
+"model" "models/map_objects/kejim/cargo_small.md3"
+}
+{
+"classname" "misc_model_static"
+"origin" "-4040 -4312 -448"
+"model" "models/map_objects/kejim/cargo_small.md3"
+}
+{
+"classname" "misc_model_static"
+"origin" "-4088 -4264 -448"
+"model" "models/map_objects/kejim/cargo_small.md3"
+}
+{
+"classname" "misc_model_static"
+"origin" "-4040 -4264 -448"
+"model" "models/map_objects/kejim/cargo_small.md3"
+}
+{
+"classname" "misc_model_static"
+"origin" "-3936 -4792 -448"
+"model" "models/map_objects/cinematics/table.md3"
+"modelscale" "2"
+}
+{
+"classname" "misc_model_static"
+"origin" "-4008 -4792 -448"
+"model" "models/map_objects/cinematics/chair.md3"
+"modelscale" "2"
+"angle" "-90"
+}
+{
+"classname" "misc_model_static"
+"origin" "-3964 -5620 -448"
+"model" "models/map_objects/hoth/bacta_tank.md3"
+"modelscale" "1.45"
+}
+{
+"classname" "misc_model_static"
+"origin" "-3896 -5424 -168"
+"model" "models/map_objects/desert/emitter.md3"
+}
+{
+"classname" "misc_model_static"
+"origin" "-3896 -5168 -168"
+"model" "models/map_objects/desert/emitter.md3"
+}
+{
+"classname" "misc_model_static"
+"origin" "-3896 -4512 -168"
+"model" "models/map_objects/desert/emitter.md3"
+}
+{
+"classname" "misc_model_static"
+"origin" "-3896 -4768 -168"
+"model" "models/map_objects/desert/emitter.md3"
+}
+{
+"classname" "misc_model_static"
+"origin" "-516 1028 -448"
+"model" "models/map_objects/hoth/bacta_tank.md3"
+"modelscale" "1.45"
+"angle" "180"
+}
+{
+"classname" "misc_model_static"
+"origin" "-584 832 -168"
+"model" "models/map_objects/desert/emitter.md3"
+"angle" "180"
+}
+{
+"classname" "misc_model_static"
+"origin" "-584 576 -168"
+"model" "models/map_objects/desert/emitter.md3"
+"angle" "180"
+}
+{
+"classname" "misc_model_static"
+"origin" "-584 176 -168"
+"model" "models/map_objects/desert/emitter.md3"
+"angle" "180"
+}
+{
+"classname" "misc_model_static"
+"origin" "-584 -80 -168"
+"model" "models/map_objects/desert/emitter.md3"
+"angle" "180"
+}
+{
+"classname" "misc_model_static"
+"origin" "-440 -328 -448"
+"model" "models/map_objects/kejim/cargo_small.md3"
+"angle" "180"
+}
+{
+"classname" "misc_model_static"
+"origin" "-392 -328 -448"
+"model" "models/map_objects/kejim/cargo_small.md3"
+"angle" "180"
+}
+{
+"classname" "misc_model_static"
+"origin" "-344 -328 -448"
+"model" "models/map_objects/kejim/cargo_small.md3"
+"angle" "180"
+}
+{
+"classname" "misc_model_static"
+"origin" "-440 -280 -448"
+"model" "models/map_objects/kejim/cargo_small.md3"
+"angle" "180"
+}
+{
+"classname" "misc_model_static"
+"origin" "-472 200 -448"
+"model" "models/map_objects/cinematics/chair.md3"
+"modelscale" "2"
+"angle" "90"
+}
+{
+"classname" "misc_model_static"
+"origin" "-544 200 -448"
+"model" "models/map_objects/cinematics/table.md3"
+"modelscale" "2"
+"angle" "180"
+}
+{
+"classname" "misc_model_static"
+"origin" "-24 352 -440"
+"model" "models/map_objects/hoth/bed.md3"
+"angle" "-225"
+"modelscale" "1.5"
+}
+{
+"classname" "misc_model_static"
+"origin" "-4456 -4944 -440"
+"model" "models/map_objects/hoth/bed.md3"
+"angle" "-45"
+"modelscale" "1.5"
+}
